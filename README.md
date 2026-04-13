@@ -71,19 +71,19 @@ print(df.head())
 | move.paris         | resell    | $51.98    | —             | 78             | 42     | 4      | GoDaddy.com LLC |
 | affinity.paris     | premium   | $363.53   | —             | 78             | 81     | 8      | name.com        |
 | indeed.paris       | available | $51.98    | —             | 86             | 85     | 6      | namecheap       |
-| launch.paris       | resell    | $51.98    | —             | 91             | 39     | 6      | GoDaddy.com LLC |
+| order.paris        | resell    | $51.98    | —             | 78             | 40     | 5      | GoDaddy.com LLC |
 | entrepreneur.paris | premium   | $359.90   | —             | 82             | 80     | 12     | name.com        |
 | ally.paris         | available | $51.98    | —             | 68             | 85     | 4      | namecheap       |
-| pool.paris         | resell    | $51.98    | —             | 66             | 39     | 4      | GoDaddy.com LLC |
+| launch.paris       | resell    | $51.98    | —             | 91             | 39     | 6      | GoDaddy.com LLC |
 | march.paris        | premium   | $362.65   | —             | 70             | 80     | 5      | name.com        |
 | orange.paris       | available | $65.99    | —             | 88             | 83     | 6      | name.com        |
-| pin.paris          | resell    | $51.98    | —             | 74             | 33     | 3      | GoDaddy.com LLC |
+| pool.paris         | resell    | $51.98    | —             | 66             | 39     | 4      | GoDaddy.com LLC |
 | name.paris         | premium   | $364.66   | —             | 82             | 76     | 4      | name.com        |
 | grandprix.paris    | available | $51.98    | —             | 76             | 83     | 10     | namecheap       |
-| deliver.paris      | resell    | $51.98    | —             | 76             | 32     | 7      | GoDaddy.com LLC |
+| pin.paris          | resell    | $51.98    | —             | 74             | 33     | 3      | GoDaddy.com LLC |
 | habitat.paris      | premium   | $413.40   | $413.40       | 74             | 66     | 7      | namecheap       |
 | axle.paris         | available | $51.98    | —             | 74             | 83     | 4      | namecheap       |
-| delivery.paris     | resell    | $51.98    | —             | 76             | 31     | 8      | GoDaddy.com LLC |
+| deliver.paris      | resell    | $51.98    | —             | 76             | 32     | 7      | GoDaddy.com LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
