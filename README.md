@@ -1,10 +1,10 @@
-# Available .PARIS One-Word Domains (9,460)
+# Available .PARIS One-Word Domains (9,929)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C460%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C929%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .paris one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,460 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,929 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,460 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,929 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/paris`  
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,8 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| nets.paris         | available | $51.98    | —             | 54             | 81     | 4      | namecheap |
-| agents.paris       | premium   | $366.31   | —             | 56             | 50     | 6      | name.com  |
 | robots.paris       | available | $51.98    | —             | 62             | 47     | 6      | namecheap |
-| photography.paris  | premium   | $367.35   | —             | 80             | 31     | 11     | name.com  |
+| agents.paris       | premium   | $366.31   | —             | 56             | 50     | 6      | name.com  |
 | chatbot.paris      | available | $51.98    | —             | 82             | 36     | 7      | namecheap |
 | diamonds.paris     | premium   | $367      | —             | 89             | 27     | 8      | name.com  |
 | invoice.paris      | available | $51.98    | —             | 72             | 33     | 8      | namecheap |
@@ -75,15 +73,17 @@ print(df.head())
 | theone.paris       | available | $51.98    | —             | 74             | 32     | 7      | namecheap |
 | sites.paris        | premium   | $366.34   | —             | 53             | 26     | 5      | name.com  |
 | videos.paris       | available | $51.98    | —             | 52             | 30     | 6      | namecheap |
-| lights.paris       | premium   | $366.02   | —             | 76             | 21     | 6      | name.com  |
+| gamers.paris       | premium   | $365.87   | —             | 62             | 24     | 6      | name.com  |
 | update.paris       | available | $51.98    | —             | 88             | 29     | 7      | namecheap |
-| smartphone.paris   | premium   | $1,471.62 | —             | 78             | 17     | 10     | name.com  |
+| lights.paris       | premium   | $366.02   | —             | 76             | 21     | 6      | name.com  |
 | blackdiamond.paris | available | $51.98    | —             | 70             | 29     | 13     | namecheap |
-| hightech.paris     | premium   | $365.29   | —             | 83             | 16     | 9      | name.com  |
+| Tshirts.paris      | premium   | $1,464    | —             | 70             | 20     | 8      | name.com  |
 | ages.paris         | available | $51.98    | —             | 51             | 29     | 4      | namecheap |
-| jewels.paris       | premium   | $366.31   | —             | 80             | 15     | 6      | name.com  |
+| smartphone.paris   | premium   | $1,471.62 | —             | 78             | 17     | 10     | name.com  |
 | bears.paris        | available | $51.98    | —             | 64             | 28     | 5      | namecheap |
-| couples.paris      | premium   | $364.98   | —             | 52             | 14     | 7      | name.com  |
+| hightech.paris     | premium   | $365.29   | —             | 83             | 16     | 9      | name.com  |
+| gogreen.paris      | available | $51.98    | —             | 56             | 28     | 8      | namecheap |
+| jewels.paris       | premium   | $366.31   | —             | 80             | 15     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,460 live domains                               |
+| 1,000-row public sample | 9,929 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARIS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARIS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
