@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .paris one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **9,929 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,929 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,929 domains · **Median ask:** $74.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/paris`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Skype.paris        | premium   | —         | —             | 86             | 65     | 5      | —         |
+| getup.paris        | available | $51.98    | —             | 82             | 14     | 6      | namecheap |
 | robots.paris       | available | $51.98    | —             | 62             | 47     | 6      | namecheap |
 | agents.paris       | premium   | $366.31   | —             | 56             | 50     | 6      | name.com  |
 | chatbot.paris      | available | $51.98    | —             | 82             | 36     | 7      | namecheap |
@@ -82,8 +84,6 @@ print(df.head())
 | smartphone.paris   | premium   | $1,471.62 | —             | 78             | 17     | 10     | name.com  |
 | bears.paris        | available | $51.98    | —             | 64             | 28     | 5      | namecheap |
 | hightech.paris     | premium   | $365.29   | —             | 83             | 16     | 9      | name.com  |
-| gogreen.paris      | available | $51.98    | —             | 56             | 28     | 8      | namecheap |
-| jewels.paris       | premium   | $366.31   | —             | 80             | 15     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,929 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 9,929 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely .paris, which makes the main decision less about extension choice and more about name quality. The mix includes generic dictionary words like blue.paris and tips.paris, personal names like Liam.paris and Cindy.paris, and terms that may raise clear trademark concerns such as Sony.paris, Uber.paris, and Trex.paris. With a median ask of 74.38, the selection spans many low-entry options, but low ask alone does not make a name strong. When comparing these domains, prioritize clear meaning, memorability, clean spelling, and whether the term can be used safely without brand conflict.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results are .paris domains only
+- Median ask across this selection is 74.38
+- Includes generic words, names, and risky brand terms
+- Favor clear spelling and low trademark exposure
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARIS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARIS One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
