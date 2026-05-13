@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .paris one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,932 domains · **Median ask:** $74.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/paris`  
 **Best for:** founders, investors, studios
 
@@ -64,14 +64,14 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Skype.paris        | premium   | —         | —             | 86             | 65     | 5      | —         |
+| Skype.paris        | premium   | —         | —             | 86             | 66     | 5      | —         |
 | getup.paris        | available | $51.98    | —             | 82             | 14     | 6      | namecheap |
 | robots.paris       | available | $51.98    | —             | 62             | 47     | 6      | namecheap |
 | agents.paris       | premium   | $366.31   | —             | 56             | 50     | 6      | name.com  |
 | chatbot.paris      | available | $51.98    | —             | 82             | 40     | 7      | namecheap |
-| diamonds.paris     | premium   | $367      | —             | 89             | 27     | 8      | name.com  |
+| information.paris  | premium   | $367.40   | —             | 88             | 28     | 11     | name.com  |
 | invoice.paris      | available | $51.98    | —             | 72             | 33     | 8      | namecheap |
-| information.paris  | premium   | $367.40   | —             | 88             | 26     | 11     | name.com  |
+| diamonds.paris     | premium   | $367      | —             | 89             | 27     | 8      | name.com  |
 | theone.paris       | available | $51.98    | —             | 74             | 32     | 7      | namecheap |
 | sites.paris        | premium   | $366.34   | —             | 53             | 26     | 5      | name.com  |
 | videos.paris       | available | $51.98    | —             | 52             | 30     | 6      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARIS One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARIS One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
