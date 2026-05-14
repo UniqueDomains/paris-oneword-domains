@@ -76,11 +76,11 @@ print(df.head())
 | sites.paris        | premium   | $366.34   | —             | 53             | 26     | 5      | name.com  |
 | videos.paris       | available | $51.98    | —             | 52             | 30     | 6      | namecheap |
 | gamers.paris       | premium   | $365.87   | —             | 62             | 24     | 6      | name.com  |
-| update.paris       | available | $51.98    | —             | 88             | 29     | 7      | namecheap |
-| lights.paris       | premium   | $366.02   | —             | 76             | 21     | 6      | name.com  |
 | blackdiamond.paris | available | $51.98    | —             | 70             | 29     | 13     | namecheap |
-| Tshirts.paris      | premium   | $1,464    | —             | 70             | 20     | 8      | name.com  |
+| lights.paris       | premium   | $366.02   | —             | 76             | 21     | 6      | name.com  |
 | ages.paris         | available | $51.98    | —             | 51             | 29     | 4      | namecheap |
+| Tshirts.paris      | premium   | $1,464    | —             | 70             | 20     | 8      | name.com  |
+| update.paris       | available | $51.98    | —             | 88             | 28     | 7      | namecheap |
 | smartphone.paris   | premium   | $1,471.62 | —             | 78             | 18     | 10     | name.com  |
 | bears.paris        | available | $51.98    | —             | 64             | 28     | 5      | namecheap |
 | hightech.paris     | premium   | $365.29   | —             | 83             | 16     | 9      | name.com  |
