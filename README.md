@@ -1,10 +1,10 @@
-# Available .PARIS One-Word Domains (15,847)
+# Available .PARIS One-Word Domains (16,406)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C847%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C406%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .paris one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,847 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **16,406 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,847 domains · **Median ask:** $71.09 · **High-demand under $2,500:** 46
+**Public extract:** 1,000 rows · **Live catalog:** 16,406 domains · **Median ask:** $70.94 · **High-demand under $2,500:** 46
 
-**Last updated:** 2026-08-17
+**Last updated:** 2026-08-18
 **Canonical page:** `https://unique.domains/domains/tld/paris`
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | bags.paris      | premium   | $368.39   | —             | high           | low    | 4      | name.com        |
 | atp.paris       | available | $51.98    | —             | medium         | low    | 3      | namecheap       |
 | playing.paris   | resell    | $51.98    | —             | high           | low    | 7      | GoDaddy.com LLC |
-| data.paris      | premium   | $361.48   | $361.48       | medium         | medium | 4      | name.com        |
+| data.paris      | premium   | $361.95   | $361.95       | medium         | medium | 4      | name.com        |
 | bed.paris       | available | $51.98    | —             | high           | low    | 3      | namecheap       |
 | landscape.paris | resell    | $51.98    | —             | high           | low    | 9      | GoDaddy.com LLC |
 | deal.paris      | premium   | $364.83   | —             | medium         | low    | 4      | name.com        |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,847 live domains                        |
+| 1,000-row public sample | 16,406 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 46 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARIS One-Word Domains*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARIS One-Word Domains*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
