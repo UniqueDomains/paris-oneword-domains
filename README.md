@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .paris one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,508 domains · **Median ask:** $70.21 · **High-demand under $2,500:** 55
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/tld/paris`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| okay.paris      | available | $51.98    | —             | high           | low    | 4      | namecheap       |
-| sorry.paris     | available | $51.98    | —             | high           | low    | 5      | namecheap       |
 | ana.paris       | available | $51.98    | —             | high           | low    | 3      | namecheap       |
 | poll.paris      | resell    | $51.98    | —             | high           | low    | 4      | GoDaddy.com LLC |
 | pay.paris       | premium   | $366.64   | —             | high           | medium | 3      | name.com        |
@@ -84,6 +82,8 @@ print(df.head())
 | bed.paris       | available | $51.98    | —             | high           | low    | 3      | namecheap       |
 | landscape.paris | resell    | $51.98    | —             | high           | low    | 9      | GoDaddy.com LLC |
 | deal.paris      | premium   | $364.83   | —             | medium         | low    | 4      | name.com        |
+| beg.paris       | available | $51.98    | —             | medium         | low    | 3      | namecheap       |
+| city.paris      | resell    | —         | —             | high           | medium | 4      | NameWeb bvba    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PARIS One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PARIS One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
