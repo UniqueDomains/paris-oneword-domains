@@ -1,10 +1,10 @@
-# Available .PARIS One-Word Domains (23,553)
+# Available .PARIS One-Word Domains (24,078)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C553%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C078%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .paris one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,553 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,078 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,553 domains · **Median ask:** $69.28 · **High-demand under $2,500:** 101
+**Public extract:** 1,000 rows · **Live catalog:** 24,078 domains · **Median ask:** $69.06 · **High-demand under $2,500:** 106
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/paris`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| adh.paris     | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
-| climb.paris   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com LLC |
-| org.paris     | premium   | $368.39   | —             | high           | medium | 3      | name.com        |
-| aku.paris     | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
-| cruise.paris  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com LLC |
-| bags.paris    | premium   | $368.39   | —             | high           | low    | 4      | name.com        |
-| bap.paris     | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
-| tickets.paris | resell    | —         | —             | high           | low    | 7      | OVH             |
-| ideas.paris   | premium   | $363.20   | —             | high           | low    | 5      | name.com        |
-| bns.paris     | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
-| lunch.paris   | premium   | $365.42   | —             | high           | low    | 5      | name.com        |
-| cad.paris     | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
-| parks.paris   | premium   | $366.64   | —             | high           | low    | 5      | name.com        |
-| dew.paris     | available | $51.98    | —             | high           | low    | 3      | namecheap       |
-| union.paris   | premium   | $366.33   | —             | high           | low    | 5      | name.com        |
-| dip.paris     | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
-| assure.paris  | premium   | $366.97   | —             | high           | low    | 6      | name.com        |
-| due.paris     | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
-| student.paris | premium   | $365.42   | —             | high           | low    | 7      | name.com        |
-| fad.paris     | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| bap.paris      | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
+| climb.paris    | resell    | —         | —             | high           | low    | 5      | GoDaddy.com LLC |
+| org.paris      | premium   | $368.39   | —             | high           | medium | 3      | name.com        |
+| bns.paris      | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
+| cruise.paris   | resell    | —         | —             | high           | low    | 6      | GoDaddy.com LLC |
+| bags.paris     | premium   | $368.39   | —             | high           | low    | 4      | name.com        |
+| cad.paris      | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
+| tickets.paris  | resell    | —         | —             | high           | low    | 7      | OVH             |
+| ideas.paris    | premium   | $363.20   | —             | high           | low    | 5      | name.com        |
+| dew.paris      | available | $51.98    | —             | high           | low    | 3      | namecheap       |
+| parks.paris    | premium   | $366.64   | —             | high           | low    | 5      | name.com        |
+| dip.paris      | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
+| assure.paris   | premium   | $366.97   | —             | high           | low    | 6      | name.com        |
+| due.paris      | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
+| student.paris  | premium   | $365.42   | —             | high           | low    | 7      | name.com        |
+| fad.paris      | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
+| cavalier.paris | premium   | $360.64   | $360.64       | high           | low    | 8      | name.com        |
+| fee.paris      | available | $51.98    | —             | high           | low    | 3      | namecheap       |
+| fis.paris      | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
+| iss.paris      | available | $66.98    | $66.98        | high           | low    | 3      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,553 live domains                        |
+| 1,000-row public sample | 24,078 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 101 high-demand names under $2,500         |
+| Basic exported fields   | 106 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
