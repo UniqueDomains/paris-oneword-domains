@@ -2,15 +2,17 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 f7928393-ebfe-43ac-b1ea-801a8cd1e9cd,instantly.paris,available,66.98,66.98,medium,low,9,namecheap,,,10/09/2026 21:29
 ad12e5a0-a2b7-4a21-be59-56f9284d42bb,albumen.paris,available,66.98,66.98,high,low,7,namecheap,,,18/09/2026 03:31
 23e52464-3018-496c-84b9-dd3c5eabe307,corked.paris,available,65.99,65.99,medium,low,6,name.com,,,13/08/2026 01:20
+8cc5e5c3-d562-44dd-a4d2-3a0cb1cb81b7,cmc.paris,available,66.98,66.98,high,low,3,namecheap,,,29/09/2026 21:38
 1e8e7f03-f839-4c5a-89d5-abed36dbdc1f,refugee.paris,available,66.98,66.98,high,low,7,namecheap,,,28/09/2026 20:17
-c9ca1224-5ead-42fc-968a-3c8c66976400,gramme.paris,available,51.98,,high,low,6,namecheap,,,
+c9ca1224-5ead-42fc-968a-3c8c66976400,gramme.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 20:16
 74228152-f3e7-4832-bda5-2dd12ebe6f29,civilised.paris,available,65.99,65.99,high,low,9,name.com,,,12/08/2026 09:08
-a0bdffcd-bf85-4059-9040-db2be311cf7f,quibble.paris,available,66.98,66.98,medium,low,7,namecheap,,,23/09/2026 13:17
+a0bdffcd-bf85-4059-9040-db2be311cf7f,quibble.paris,available,66.98,66.98,high,low,7,namecheap,,,23/09/2026 13:17
 7bfd36c2-e19c-4fd6-81e7-f419eebdeccc,residential.paris,available,66.98,66.98,high,low,11,namecheap,,,29/09/2026 03:03
 8b64c5dd-12d0-4d5c-91a1-2f355b337ea3,similar.paris,available,65.99,65.99,high,low,7,name.com,,,
 f99dcc4f-628b-4ebf-bbe9-8b7a34f89034,atilt.paris,available,65.99,65.99,medium,low,5,name.com,,,07/08/2026 13:13
 86ccd9cb-93c6-4d2c-9dd8-2ce73173e7a3,lead.paris,available,66.98,66.98,high,medium,4,namecheap,,,25/09/2026 13:15
 7746662e-ecbc-4273-ad76-2093032bcdcd,andiron.paris,available,66.98,66.98,medium,low,7,namecheap,,,19/09/2026 04:06
+c0c7c9d7-3459-4ecc-a96e-e6dfc64e4bc1,carlsbad.paris,available,66.98,66.98,high,low,8,namecheap,,,29/09/2026 18:13
 7d1a57ee-88b2-4249-8213-501394c06ae8,mushy.paris,available,65.99,65.99,medium,low,5,name.com,,,09/08/2026 00:58
 828d149b-3666-4301-9b28-21615e06899d,gaylord.paris,available,66.98,66.98,high,low,7,namecheap,,,29/09/2026 03:38
 75c4acc9-dd80-4885-ade4-940d56e111a1,footballs.paris,available,66.98,66.98,medium,low,9,namecheap,,,20/09/2026 06:56
@@ -30,7 +32,8 @@ d0eea119-b235-4752-91be-441f9b76e006,passed.paris,available,51.98,,medium,low,6,
 80b77df0-862d-4a46-9d02-c5d78546271e,incidental.paris,available,65.99,65.99,high,low,10,name.com,,,
 ea4c01ec-4303-49f7-b02d-071acc5cd9d5,attendant.paris,available,66.98,66.98,high,low,9,namecheap,,,21/09/2026 15:40
 9e7d2591-d716-4f92-aa0a-aa5b2244989f,assessable.paris,available,65.99,65.99,medium,low,10,name.com,,,07/08/2026 06:04
-e24dbfbf-b2b7-4e83-b3bb-1f86811651cd,giza.paris,available,51.98,,high,low,4,namecheap,,,
+1d1421f0-1cd4-43f2-a93d-87a0a497cf55,hobbes.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 07:16
+e24dbfbf-b2b7-4e83-b3bb-1f86811651cd,giza.paris,available,66.98,66.98,high,low,4,namecheap,,,29/09/2026 17:47
 3b724ffe-8c0f-45e8-bd7f-bac3fa29861f,dominion.paris,available,66.98,66.98,high,low,8,namecheap,,,24/09/2026 23:09
 ec74a3a4-1803-4f2d-8ce9-c6d280a84b55,shattered.paris,available,66.98,66.98,high,medium,9,namecheap,,,10/09/2026 06:04
 455c1b6d-29e8-40e2-9141-58ee231b3879,prow.paris,available,65.99,65.99,medium,low,4,name.com,,,18/08/2026 11:28
@@ -40,14 +43,17 @@ ab60ec68-c06b-493d-8032-41d8e853e414,alignment.paris,available,66.98,66.98,high,
 cdf1cd91-d085-441f-8152-a3e007ed77fc,casteless.paris,available,65.99,65.99,medium,low,9,name.com,,,11/08/2026 20:25
 c66679a5-e17c-48e5-b6e5-31c43f946e0c,laid.paris,available,66.98,66.98,high,low,4,namecheap,,,25/09/2026 13:04
 73659e0e-c272-42f0-9d22-fa62cb9c9178,unbooked.paris,available,66.98,66.98,high,low,8,namecheap,,,12/09/2026 02:19
+23fb5646-da6e-43ac-9fc9-d7716aafd979,broderick.paris,available,66.98,66.98,high,low,9,namecheap,,,29/09/2026 21:41
 1fb3c0ac-a489-4805-bcaf-401efab096f1,nefarious.paris,available,65.99,65.99,medium,low,9,name.com,,,03/09/2026 14:57
 202dbaa6-5cd4-4f35-a3dd-79fd549f40a3,cloth.paris,available,66.98,66.98,high,low,5,namecheap,,,28/09/2026 02:26
 596bfee3-3ecf-46f2-89b6-9365e47bc487,endogenic.paris,available,65.99,65.99,medium,low,9,name.com,,,17/08/2026 01:13
-aacb2852-30e5-467a-b0cb-930c869f46d3,science.paris,available,66.98,66.98,high,medium,7,namecheap,,,28/09/2026 16:46
+aacb2852-30e5-467a-b0cb-930c869f46d3,science.paris,available,66.98,66.98,high,medium,7,namecheap,,,30/09/2026 03:04
 e2abad5d-0fbc-4558-bc19-d7c108bc8599,witting.paris,available,65.99,65.99,medium,low,7,name.com,,,12/08/2026 22:24
 b5ee0474-0a63-4e0a-a936-408e27375769,bladder.paris,available,66.98,66.98,high,low,7,namecheap,,,24/09/2026 03:26
 93ffa3b5-0253-4c74-8b7e-2623da505944,bellwether.paris,available,66.98,66.98,high,low,10,namecheap,,,23/09/2026 06:30
+b2aaa404-9fc1-4312-b5f6-fd3a5e97d273,madeleine.paris,available,66.98,66.98,high,low,9,namecheap,,,29/09/2026 14:18
 dae18580-eff5-4b15-97c2-87cfdb8e275e,baddie.paris,available,66.98,66.98,medium,low,6,namecheap,,,21/09/2026 16:59
+6125439c-cfa1-46fa-9207-b77c84cf061f,webber.paris,available,66.98,66.98,medium,low,6,namecheap,,,29/09/2026 15:02
 e13fab42-13a0-4d63-9eaa-89a5c21fa81a,timber.paris,available,66.98,66.98,high,low,6,namecheap,,,28/09/2026 19:46
 21016d73-e355-47fe-b1df-8ac17156746f,tells.paris,available,66.98,66.98,medium,low,5,namecheap,,,18/09/2026 14:10
 cc6443f3-65d4-4823-9122-e433aad95e8e,slavery.paris,available,66.98,66.98,high,low,7,namecheap,,,10/09/2026 10:30
@@ -61,35 +67,38 @@ ea74e8dc-e961-44a5-9a1f-1daffd0806a5,kinda.paris,available,66.98,66.98,high,low,
 60fb5be8-a655-41a5-b173-fc8bb26e8e75,niobium.paris,available,66.98,66.98,medium,low,7,namecheap,,,20/09/2026 23:04
 8950e603-962d-4a63-bb67-8ac120bc59a0,textual.paris,available,66.98,66.98,high,low,7,namecheap,,,11/09/2026 12:20
 12664e96-93bb-4824-aba9-c0a9b00cb911,cartesian.paris,available,65.99,65.99,high,low,9,name.com,,,11/08/2026 19:49
+4fe5f0db-c19c-46c0-8ac8-6c386a3bf7f9,duet.paris,available,66.98,66.98,high,low,4,namecheap,,,29/09/2026 18:31
 046c9df3-6f5f-460c-9ff7-30943b1ab3e6,thenar.paris,available,66.98,66.98,medium,low,6,namecheap,,,11/09/2026 12:51
-200a2f5d-ea90-4ff8-ac08-ae1af8e7e750,zarqa.paris,available,66.98,66.98,medium,low,5,namecheap,,,21/09/2026 10:58
+200a2f5d-ea90-4ff8-ac08-ae1af8e7e750,zarqa.paris,available,66.98,66.98,high,low,5,namecheap,,,21/09/2026 10:58
 d7cce072-73b5-499a-94e3-e03f32145f00,iffy.paris,available,65.99,65.99,medium,low,4,name.com,,,18/08/2026 09:22
 2dd2050d-9168-4a6e-a9d9-966264306773,choirs.paris,available,66.98,66.98,medium,low,6,namecheap,,,17/09/2026 06:51
 08d55d5a-0b8c-41ec-9b4a-27cd65c9b864,ajaia.paris,available,66.98,66.98,medium,low,5,namecheap,,,17/09/2026 23:39
-d4f3dac4-0c6a-4f53-90fc-ffb6d5791f21,missional.paris,available,65.99,65.99,medium,low,9,name.com,,,25/08/2026 01:50
+d4f3dac4-0c6a-4f53-90fc-ffb6d5791f21,missional.paris,available,65.99,65.99,high,low,9,name.com,,,25/08/2026 01:50
 a8d732ef-9183-46ad-9b41-e4d57a8c8735,basuto.paris,available,66.98,66.98,high,low,6,namecheap,,,22/09/2026 13:01
 9ea5c8fb-b3bb-4ddd-b6a0-b6a1fe45a11f,reached.paris,available,66.98,66.98,medium,low,7,namecheap,,,17/09/2026 19:16
 f25c721d-816d-490f-a97f-83d8040f32b9,chetah.paris,available,66.98,66.98,medium,low,6,namecheap,,,17/09/2026 01:35
-102aa869-240c-42d1-8c23-2be22a9f70b1,habited.paris,available,65.99,65.99,medium,low,7,name.com,,,20/08/2026 21:27
-dd21f2a9-d284-4377-8c1b-4a6d73d3c1d4,akron.paris,available,66.98,66.98,medium,low,5,namecheap,,,18/09/2026 00:14
+102aa869-240c-42d1-8c23-2be22a9f70b1,habited.paris,available,65.99,65.99,high,low,7,name.com,,,20/08/2026 21:27
+dd21f2a9-d284-4377-8c1b-4a6d73d3c1d4,akron.paris,available,66.98,66.98,high,low,5,namecheap,,,18/09/2026 00:14
 897d7cf5-452b-43a6-bdf1-57f8f28a453e,pharmacy.paris,available,66.98,66.98,high,low,8,namecheap,,,28/09/2026 21:46
 e50bdc30-4b69-4413-a130-aff1e1168d15,incoming.paris,available,65.99,65.99,high,low,8,name.com,,,22/08/2026 01:44
 865a4f5f-e060-4f59-bfeb-5c32366d85e0,souther.paris,available,66.98,66.98,high,medium,7,namecheap,,,10/09/2026 14:54
 0051ff4d-2a22-4b8d-b693-751b7b5a86fe,clemson.paris,available,66.98,66.98,high,low,7,namecheap,,,27/09/2026 07:07
-75f89df2-d669-477f-a581-cfd6a096d220,walters.paris,available,66.98,66.98,medium,low,7,namecheap,,,25/09/2026 15:56
+75f89df2-d669-477f-a581-cfd6a096d220,walters.paris,available,66.98,66.98,high,low,7,namecheap,,,25/09/2026 15:56
 a733e121-2741-4b36-8dda-51da9fd24858,formosan.paris,available,65.99,65.99,high,low,8,name.com,,,18/08/2026 12:16
 662012c3-42cb-426e-bb25-46cf2cd42b1e,developmental.paris,available,66.98,66.98,medium,low,13,namecheap,,,29/09/2026 02:36
 80fcd391-45c0-4872-b772-8f2cb31329de,ketchup.paris,available,66.98,66.98,high,low,7,namecheap,,,24/09/2026 13:10
 9643b970-7dfa-4b84-a188-ca1a679a1a81,laboring.paris,available,65.99,65.99,medium,low,8,name.com,,,14/08/2026 19:56
 7b149383-4205-4045-ab41-fd364a3cbe76,planetarium.paris,available,51.98,,high,low,11,namecheap,,,
+b81a4419-7aca-437f-b734-ee8925bc6ce4,finch.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 06:55
 878b0133-31c7-4601-b51b-6970bbe1b122,gravel.paris,available,66.98,66.98,high,low,6,namecheap,,,21/09/2026 17:36
+248495e2-95b0-48b9-a3cb-57e8e6abb20c,competitor.paris,available,66.98,66.98,high,low,10,namecheap,,,29/09/2026 06:18
 cb51ef03-3b92-48c4-80a9-d0d616ce92c1,ornamental.paris,available,65.99,65.99,high,low,10,name.com,,,13/08/2026 02:53
 4209c8fc-e0bb-4770-be37-bb14429bf709,invading.paris,available,65.99,65.99,medium,low,8,name.com,,,22/08/2026 02:12
 acb79cc4-076c-4dd4-ab03-0561fcb6d13c,doughnut.paris,available,66.98,66.98,high,low,8,namecheap,,,28/09/2026 21:18
 3dc9385e-1215-4902-9b55-61c92b9e635e,portend.paris,available,66.98,66.98,medium,low,7,namecheap,,,21/09/2026 03:29
 94173880-d272-4c1a-88e8-d3841398bb61,vietnamese.paris,available,66.98,66.98,high,low,10,namecheap,,,13/09/2026 05:32
 beb3b89f-414f-4051-a03e-97f2f596488c,fees.paris,available,51.98,,high,low,4,namecheap,,,
-80c9bbb8-111f-4ae2-b60a-e6e552837193,algebraic.paris,available,65.99,65.99,medium,low,9,name.com,,,
+80c9bbb8-111f-4ae2-b60a-e6e552837193,algebraic.paris,available,65.99,65.99,high,low,9,name.com,,,
 3814a34a-fb52-43ba-8b0d-425fae6ab5fa,hydroponic.paris,available,65.99,65.99,medium,low,10,name.com,,,06/08/2026 10:34
 a5d221dd-42dd-4a8f-acc3-b2091134f656,cope.paris,available,66.98,66.98,high,low,4,namecheap,,,24/09/2026 18:08
 809e9dc6-f7fb-4f6c-be5e-2670c5ef205d,admiral.paris,available,66.98,66.98,high,low,7,namecheap,,,17/09/2026 08:46
@@ -101,16 +110,19 @@ bf8778cd-9067-4756-8c6c-5c5edc3020c5,lightness.paris,available,65.99,65.99,high,
 b0f082e4-95cd-4652-8533-79e736b27459,fruitless.paris,available,65.99,65.99,medium,low,9,name.com,,,10/08/2026 19:39
 96186bc6-7b4e-4e51-b9ee-cf07ce8a8064,angularity.paris,available,66.98,66.98,medium,low,10,namecheap,,,19/09/2026 07:43
 32d97a9e-6cb7-4d43-9fa8-c0c5dac41c3e,pointy.paris,available,51.98,,high,low,6,namecheap,,,
+ab42efc5-1390-4d32-ac8a-84c192e62c7b,luo.paris,available,66.98,66.98,high,low,3,namecheap,,,29/09/2026 07:30
 af0f7b15-1327-44c6-9994-88da079b06b0,capitalist.paris,available,65.99,65.99,high,low,10,name.com,,,11/08/2026 17:55
 c858b47a-3cef-4559-9c7e-4bb922b3ba1b,mcneill.paris,available,66.98,66.98,medium,low,7,namecheap,,,29/09/2026 04:34
 44a6397e-763f-4025-94fd-57018fe1ec6d,everett.paris,available,66.98,66.98,high,low,7,namecheap,,,25/09/2026 21:45
 e3a5acad-8548-49e9-a184-59abb15b94a7,blond.paris,available,66.98,66.98,high,low,5,namecheap,,,22/09/2026 22:15
 8fe1cd8b-7ee1-4e5d-ae8d-f35172812eaf,seedless.paris,available,66.98,66.98,high,low,8,namecheap,,,10/09/2026 01:45
 07deeed6-7ae0-40b8-997b-607882458bc9,candour.paris,available,66.98,66.98,high,low,7,namecheap,,,24/09/2026 12:03
+4b6f49ee-b777-4822-bde5-9a8ec73bf209,kitts.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 09:58
 4e307709-998b-46cd-b625-077411060910,openings.paris,available,66.98,66.98,medium,low,8,namecheap,,,20/09/2026 17:50
 ff852a67-01c4-4de8-895a-1f51a7b8c0ce,nth.paris,available,66.98,66.98,medium,low,3,namecheap,,,03/09/2026 12:35
 128569e7-1e96-4f47-8cdf-be0411c05818,amylase.paris,available,66.98,66.98,medium,low,7,namecheap,,,19/09/2026 00:30
 cd43cd77-f1b1-4cfd-9726-bc553516e51e,ohmic.paris,available,66.98,66.98,medium,low,5,namecheap,,,04/09/2026 01:46
+7b5fb7fe-fe70-4f71-b566-f1667ff9e4c4,escobar.paris,available,66.98,66.98,high,low,7,namecheap,,,29/09/2026 22:26
 08088f5a-b952-4d6a-94ac-18fa3cb13e61,soundproof.paris,available,66.98,66.98,high,medium,10,namecheap,,,10/09/2026 14:44
 1a4d71dc-f3a6-407b-aa08-8fd50dff9dcd,nervy.paris,available,65.99,65.99,medium,low,5,name.com,,,11/08/2026 02:28
 af272a95-37d0-4fe6-a923-bbee3931cdd3,winterhaven.paris,available,51.98,,high,low,12,namecheap,,,
@@ -136,13 +148,15 @@ db08577e-3e14-49aa-911d-f3fb69fb6c8a,ramsons.paris,available,66.98,66.98,medium,
 f8136460-f5ff-4c5e-8680-eaa292a9ffcb,dirigible.paris,available,65.99,65.99,medium,low,9,name.com,,,14/08/2026 09:02
 80627549-d6c8-45fd-9882-767712973cd0,needfully.paris,available,66.98,66.98,medium,low,9,namecheap,,,15/09/2026 16:20
 634a8702-2e35-436f-b19c-501cffa38636,cagey.paris,available,65.99,65.99,medium,low,5,name.com,,,11/08/2026 13:19
-6adc506e-86bf-4853-aa7d-6e31ca8b9182,dealership.paris,available,66.98,66.98,high,low,10,namecheap,,,25/09/2026 03:26
+6adc506e-86bf-4853-aa7d-6e31ca8b9182,dealership.paris,available,66.98,66.98,high,low,10,namecheap,,,29/09/2026 06:18
 cdd1f7f4-eff0-4e0c-b28f-f53c7a7a62e8,ameboid.paris,available,65.99,65.99,medium,low,7,name.com,,,
 e34ccde6-dd79-45d9-9303-0777f3713b20,concentrated.paris,available,51.98,,high,low,12,namecheap,,,
 eba5d799-a1fa-4f7c-b969-ab889f94608e,irregular.paris,available,66.98,66.98,high,low,9,namecheap,,,25/09/2026 11:26
+4baa37c9-99b7-4db0-b561-1fcf03a80c03,migration.paris,available,66.98,66.98,high,low,9,namecheap,,,29/09/2026 19:39
 a86f6974-f1f3-43ea-b67c-200ce215b1d6,abductor.paris,available,66.98,66.98,medium,low,8,namecheap,,,16/09/2026 14:54
 2d21d501-a05e-4984-8dbc-b04c73c6fe0a,verb.paris,available,51.98,,high,low,4,namecheap,,,
-8032d8e1-df6d-4bd4-b65c-fd91400bad83,satellites.paris,available,51.98,,medium,low,10,namecheap,,,
+f545a4ec-f2c4-4b52-9f19-7d6e696bc874,proximity.paris,available,66.98,66.98,high,low,9,namecheap,,,29/09/2026 19:29
+8032d8e1-df6d-4bd4-b65c-fd91400bad83,satellites.paris,available,51.98,,high,low,10,namecheap,,,
 0450ad6f-13a5-4bb5-bbdf-a88f60396015,airing.paris,available,66.98,66.98,high,low,6,namecheap,,,17/09/2026 23:12
 e2f0198a-7e82-43ef-8f42-d8bea3f08f30,gjo.paris,available,66.98,66.98,medium,low,4,namecheap,,,17/09/2026 05:37
 e4f6c511-180d-43e4-b871-01a12680960c,paleozoic.paris,available,66.98,66.98,medium,low,9,namecheap,,,04/09/2026 23:39
@@ -150,16 +164,19 @@ a8b29f3c-516a-43c0-b5a5-b0fc6439ebfa,authority.paris,available,66.98,66.98,high,
 d21dda54-8c3d-4c7a-8d29-68936c6b1edc,device.paris,available,66.98,66.98,high,low,6,namecheap,,,28/09/2026 04:21
 451618ce-c630-4f2f-80e0-a868f6f625f1,lexically.paris,available,66.98,66.98,medium,low,9,namecheap,,,15/09/2026 11:16
 8bedfe03-708b-4e1c-acd7-907e762a5c7d,cooling.paris,available,65.99,65.99,high,low,7,name.com,,,12/08/2026 05:28
+83592e07-13af-4858-b110-7bfeee7b244d,abandonment.paris,available,66.98,66.98,medium,low,11,namecheap,,,29/09/2026 22:48
 908007e2-4023-4db1-9433-4249c4677873,defaults.paris,available,66.98,66.98,low,low,8,namecheap,,,21/09/2026 07:23
 18e00aa2-729b-4289-a8a6-8a1e84fdfe43,beldame.paris,available,66.98,66.98,medium,low,7,namecheap,,,23/09/2026 04:46
 1905a6f6-4ebc-4833-8b07-353656def62e,wholesale.paris,available,66.98,66.98,high,low,9,namecheap,,,28/09/2026 09:01
 fc380c3a-cf6d-4bf7-854c-4af01a240178,subway.paris,available,66.98,66.98,high,low,6,namecheap,,,25/09/2026 23:41
-82b52dd4-3dbb-4ab9-add3-c34485c2d9ca,weary.paris,available,66.98,66.98,medium,low,5,namecheap,,,22/09/2026 15:10
+82b52dd4-3dbb-4ab9-add3-c34485c2d9ca,weary.paris,available,66.98,66.98,high,low,5,namecheap,,,22/09/2026 15:10
 0ca00871-6fc3-4aea-836c-08a3022ae501,trilingual.paris,available,66.98,66.98,high,low,10,namecheap,,,11/09/2026 19:48
 7c4e8220-6826-4548-83b7-97af5e6655ef,bialy.paris,available,66.98,66.98,medium,low,5,namecheap,,,23/09/2026 12:41
+cb2e5ae3-15f4-4b7a-9bd2-0f78f3ac0602,luton.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 21:25
 7d682f38-7d7f-4163-b952-0495a974d5ce,coplanar.paris,available,65.99,65.99,medium,low,8,name.com,,,13/08/2026 00:32
 c10a59a4-923f-4f0e-9329-387b40e33e59,bonny.paris,available,65.99,65.99,medium,low,5,name.com,,,10/08/2026 18:45
 c7aeabe0-235f-4a18-8eda-268c9ffb838a,sacked.paris,available,66.98,66.98,medium,low,6,namecheap,,,24/09/2026 06:49
+750d7826-dae5-4464-a361-f8af2bf9e2ff,rabies.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 19:34
 fc707a85-253a-4494-a0a9-6abb258ecf36,allis.paris,available,66.98,66.98,medium,low,5,namecheap,,,18/09/2026 11:06
 ea844395-ba89-44bd-9b03-7c42b688b80a,babysitter.paris,available,66.98,66.98,high,low,10,namecheap,,,21/09/2026 13:10
 0b400f4c-4374-42c7-b539-011caeb2f834,skirt.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 03:43
@@ -175,9 +192,12 @@ c30f01ed-a65a-40f8-a587-dfdef36a48cf,atomistic.paris,available,65.99,65.99,low,l
 75e892d2-9e55-4f03-8602-6000dda0d4e4,stockton.paris,available,65.99,65.99,high,low,8,name.com,,,25/09/2026 06:10
 76dd7a7e-78d2-4aaf-a39c-95f14c223981,packable.paris,available,66.98,66.98,medium,low,8,namecheap,,,04/09/2026 22:41
 af9800e4-802b-495c-ab57-4cd18ea19a39,hatless.paris,available,65.99,65.99,medium,low,7,name.com,,,21/08/2026 01:20
+6d2b9a75-0c5c-42b8-9f4e-1bf41ba5fc8b,glands.paris,available,66.98,66.98,medium,low,6,namecheap,,,29/09/2026 16:29
 facca7ae-a562-4a1b-908c-09aa4dc016b1,glittery.paris,available,65.99,65.99,high,low,8,name.com,,,
-73b680da-111f-4469-8603-3f39cbf292b2,gallium.paris,available,66.98,66.98,medium,low,7,namecheap,,,20/09/2026 22:50
+73b680da-111f-4469-8603-3f39cbf292b2,gallium.paris,available,66.98,66.98,high,low,7,namecheap,,,20/09/2026 22:50
+9bb49987-8f1f-4841-a148-81ffd7d67d88,yorker.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 08:35
 75f7a872-a89e-4407-87d7-65f0e6a7056d,northampton.paris,available,66.98,66.98,high,low,11,namecheap,,,25/09/2026 14:57
+3df92f72-9810-4344-99b0-b46d2596819b,malfunction.paris,available,66.98,66.98,high,low,11,namecheap,,,29/09/2026 08:32
 0842cf70-6f21-4fb3-83a8-7e8429fc1a7b,unexpectedly.paris,available,66.98,66.98,medium,low,12,namecheap,,,29/09/2026 03:10
 abec905c-46b4-4117-ad91-cebdaa81bb50,thracian.paris,available,66.98,66.98,high,low,8,namecheap,,,11/09/2026 14:10
 8c3a305d-2f28-4ca6-8b8a-e4d4553bad8c,circles.paris,available,66.98,66.98,high,high,7,namecheap,,,27/09/2026 23:59
@@ -197,6 +217,7 @@ fa32a8e6-8367-49b3-8a5b-37568837e413,movements.paris,available,66.98,66.98,low,l
 e5a97499-a512-4d59-8ad1-2dab17ffdc71,wrinkled.paris,available,65.99,65.99,medium,low,8,name.com,,,12/09/2026 13:50
 2fd73b50-b6cb-4fb6-86b8-11bea549ba51,lacy.paris,available,65.99,65.99,high,low,4,name.com,,,22/08/2026 17:47
 16932693-0045-42d5-8565-5b35f9d99d66,gawky.paris,available,65.99,65.99,medium,low,5,name.com,,,12/08/2026 13:06
+91f8ab05-2a63-48a2-ad46-a85967871ca5,equity.paris,available,66.98,66.98,high,low,6,namecheap,,,30/09/2026 01:33
 83ed1b17-7a73-4b25-842d-6717fd693b94,heavily.paris,available,65.99,65.99,medium,low,7,name.com,,,21/08/2026 05:28
 db06faa1-b1c4-45ff-baf2-9142c0bfcb5b,dip.paris,available,66.98,66.98,high,low,3,namecheap,,,24/09/2026 10:33
 514af0c7-4d56-46d7-8ea4-adeaee471827,joyously.paris,available,66.98,66.98,high,low,8,namecheap,,,14/09/2026 21:30
@@ -208,7 +229,8 @@ d940f728-885c-469d-81bc-8d4033e89169,spotlight.paris,available,66.98,66.98,high,
 b023bc1b-74a0-4762-9c3e-3a67a4024f03,lift.paris,available,66.98,66.98,high,low,4,namecheap,,,03/09/2026 17:40
 4a53abfb-6c84-4595-81a8-a07f83886cf1,reptile.paris,available,66.98,66.98,high,low,7,namecheap,,,09/09/2026 14:41
 ab8c44a6-eab8-45f0-b2fc-332fdd7097d8,cyprinoid.paris,available,65.99,65.99,medium,low,9,name.com,,,13/08/2026 14:30
-94294e99-7ce0-4752-8ba3-c8dd7ef9b9eb,kangeroo.paris,available,51.98,,medium,low,8,namecheap,,,
+94294e99-7ce0-4752-8ba3-c8dd7ef9b9eb,kangeroo.paris,available,51.98,,high,low,8,namecheap,,,
+6178fd58-0263-42fd-bdf6-140344a283f2,cradle.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 06:28
 e287f0ab-51bf-4e29-a389-5992d7338a5a,sensorial.paris,available,66.98,66.98,medium,low,9,namecheap,,,10/09/2026 03:46
 452722c6-46a4-40c5-84f1-78db56bf98c9,vulnerable.paris,available,66.98,66.98,high,low,10,namecheap,,,13/09/2026 07:24
 af4a204c-c582-42fb-9535-ad7c8f54488b,comedians.paris,available,66.98,66.98,medium,low,9,namecheap,,,19/09/2026 23:33
@@ -217,11 +239,14 @@ bdfe1101-2c0c-455b-abae-fe82138dbea4,aiming.paris,available,66.98,66.98,high,low
 d9eff206-3a3c-4ced-8b31-559805c6b27a,drafted.paris,available,66.98,66.98,medium,low,7,namecheap,,,29/09/2026 04:48
 c3d83392-8967-4cf4-98e0-670308e1f998,meaning.paris,available,66.98,66.98,high,low,7,namecheap,,,25/09/2026 18:26
 835738a0-5bcb-4b3f-9f3d-761b1df1863b,wyeth.paris,available,66.98,66.98,medium,low,5,namecheap,,,19/09/2026 04:48
+a585671f-9651-4b1a-a734-cba71dd3d2d0,tulsa.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 08:15
 d4eb3344-e977-44b1-8600-cb7994208a7d,imperative.paris,available,66.98,66.98,high,low,10,namecheap,,,08/09/2026 04:44
 38426be9-e98a-44a8-bd8b-6f84804a5b3f,tetchy.paris,available,65.99,65.99,medium,low,6,name.com,,,22/08/2026 10:31
+1bd3b90f-93d8-4a37-832f-c44ba943bec9,pastry.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 13:40
 0bcc915a-0b66-4dda-849d-49d1dcda53da,vaunt.paris,available,65.99,65.99,medium,low,5,name.com,,,11/08/2026 01:09
 3f2f586d-23cb-44df-becc-5cecd68c1f3a,scourge.paris,available,65.99,65.99,medium,low,7,name.com,,,18/08/2026 06:16
 beaf99ab-3591-4242-b298-bbc76c8896e2,maniac.paris,available,65.99,65.99,high,low,6,name.com,,,24/08/2026 11:21
+2b3577a5-c3c9-46e3-9ce1-7c6682a56429,deputies.paris,available,66.98,66.98,low,low,8,namecheap,,,29/09/2026 05:37
 510f2a8b-cf16-42a6-bbf2-4a3e0201c95f,andre.paris,available,66.98,66.98,high,low,5,namecheap,,,28/09/2026 04:04
 a60021d2-d129-425e-93a6-8fdbff637046,prototypal.paris,available,65.99,65.99,medium,low,10,name.com,,,06/08/2026 15:37
 a5d19d66-1b93-426b-95d6-324b4635d995,gloaming.paris,available,66.98,66.98,medium,low,8,namecheap,,,11/09/2026 21:41
@@ -231,7 +256,9 @@ eb2704ef-d3b3-4f03-aa36-801169f02468,vault.paris,available,66.98,66.98,high,medi
 f343be37-7085-4396-94e0-074ca809b15c,dryness.paris,available,66.98,66.98,high,low,7,namecheap,,,24/09/2026 22:51
 6332aaec-151a-4fcc-a847-d476945026b0,chiapas.paris,available,66.98,66.98,medium,low,7,namecheap,,,29/09/2026 04:08
 662892ea-9708-4582-8e96-aed8a904fa91,pekan.paris,available,66.98,66.98,medium,low,5,namecheap,,,24/09/2026 00:25
+1dd5e332-dfb1-4e1b-946b-fbffde32e17d,inglis.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 14:51
 1635f9fd-0250-4bf4-9854-90d3c4028214,bengal.paris,available,66.98,66.98,high,low,6,namecheap,,,23/09/2026 07:59
+dc5af9dc-05ff-4b9d-bca3-3210f8981406,reap.paris,available,22.99,67.99,high,low,4,godaddy,,,30/09/2026 01:50
 0fa67bba-30ee-4885-840d-880614c6e6ff,extralegal.paris,available,65.99,65.99,medium,low,10,name.com,,,17/08/2026 19:14
 4060e392-f6cc-4585-a13b-2681ca8c1c70,lamb.paris,available,66.98,66.98,high,low,4,namecheap,,,27/09/2026 03:31
 0893fa1a-5d79-497f-affe-200dcea837e5,bicyclist.paris,available,66.98,66.98,high,low,9,namecheap,,,23/09/2026 13:22
@@ -240,24 +267,28 @@ f343be37-7085-4396-94e0-074ca809b15c,dryness.paris,available,66.98,66.98,high,lo
 6eb966c9-4ad0-4ef9-b00f-8848a0e3d3a4,sexist.paris,available,66.98,66.98,medium,low,6,namecheap,,,10/09/2026 05:14
 a1d12815-3f98-4b3c-848d-c93d69b682e6,seeks.paris,available,66.98,66.98,medium,low,5,namecheap,,,28/09/2026 23:37
 0a445dfe-2eaf-41bf-820e-efab9f2d94b2,first.paris,available,66.98,66.98,high,medium,5,namecheap,,,21/09/2026 12:11
+ef052ff5-740c-4f5b-b9a5-d86b9113de74,pelvis.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 19:56
 61689b64-2574-4102-9973-92e7f71883d3,beefsteak.paris,available,66.98,66.98,high,low,9,namecheap,,,23/09/2026 01:15
 16cbcffa-65aa-4494-ac89-8b6982224d9f,yale.paris,available,66.98,66.98,high,low,4,namecheap,,,25/09/2026 05:27
 b4eaf207-3092-42eb-be57-925e91422cd4,allspice.paris,available,66.98,66.98,high,low,8,namecheap,,,18/09/2026 12:10
 27b0202e-0921-4037-bbdc-7b63b710f489,tubal.paris,available,66.98,66.98,medium,low,5,namecheap,,,11/09/2026 20:53
 13460d07-5e5a-4241-99a1-2b37d8bcc73c,improvise.paris,available,66.98,66.98,high,low,9,namecheap,,,21/09/2026 16:45
+ecc3982c-d9c8-4be7-adea-ffa2aec5dac9,calculating.paris,available,66.98,66.98,high,low,11,namecheap,,,29/09/2026 14:44
 2e891643-aa75-4578-bcf3-aa2a7f76e55a,townsend.paris,available,66.98,66.98,high,low,8,namecheap,,,25/09/2026 06:09
 6cb3ac8d-552b-4c0d-a2f4-b959948a7ce4,bolt.paris,available,66.98,66.98,high,high,4,namecheap,,,28/09/2026 13:18
-e890e09a-dbbb-4d91-ac52-301e1e9cd5b2,burns.paris,available,66.98,66.98,medium,low,5,namecheap,,,25/09/2026 03:46
+e890e09a-dbbb-4d91-ac52-301e1e9cd5b2,burns.paris,available,66.98,66.98,high,low,5,namecheap,,,25/09/2026 03:46
 f23b4a40-e2a2-4336-8c5b-a22ba9458373,unbounded.paris,available,65.99,65.99,high,medium,9,name.com,,,10/08/2026 22:34
 2a33aeee-8faf-4e2e-8312-78c6fd471abe,torpedo.paris,available,66.98,66.98,high,low,7,namecheap,,,28/09/2026 05:28
 a6329b96-2efc-43f1-b5d5-1f075fca03fb,hyman.paris,available,66.98,66.98,medium,low,5,namecheap,,,28/09/2026 16:48
+6dc7d444-e6ee-41eb-b66a-56b0f3512826,carriers.paris,available,66.98,66.98,medium,low,8,namecheap,,,29/09/2026 05:47
 39369f8e-3117-4f3d-bb2a-87b76f343306,dial.paris,available,66.98,66.98,high,medium,4,namecheap,,,24/09/2026 22:10
 532637ea-cda8-4c02-a642-8a0ffdb2ff35,quaintly.paris,available,66.98,66.98,medium,low,8,namecheap,,,15/09/2026 22:07
-16727dd7-b7a4-478c-afcb-cbfd38a2e418,laptop.paris,available,51.98,,high,low,6,namecheap,,,
+16727dd7-b7a4-478c-afcb-cbfd38a2e418,laptop.paris,available,66.98,66.98,high,low,6,namecheap,,,30/09/2026 02:07
 3f669ec3-9aca-4cfa-ae83-98a69226afdf,cardiac.paris,available,65.99,65.99,high,low,7,name.com,,,11/08/2026 18:53
 36bc4198-42a8-4682-9485-3bc343cf9892,stupefying.paris,available,66.98,66.98,low,low,10,namecheap,,,10/09/2026 18:10
 23a1256d-08b4-4d88-bc31-1c933e1843d0,alternatives.paris,available,66.98,66.98,medium,low,12,namecheap,,,19/09/2026 21:34
 6d241497-03ba-498e-a308-1d6b7929e89f,murky.paris,available,65.99,65.99,medium,low,5,name.com,,,25/08/2026 01:08
+2919571b-9bfb-4e54-9c13-89a2d0902acc,gerber.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 09:42
 5ff33ecd-48a2-4775-8f6e-8a49a45a687c,dijon.paris,available,66.98,66.98,high,low,5,namecheap,,,24/09/2026 22:19
 8439c2b6-9ca6-4a7a-b8ea-e036f4705a8e,enclothe.paris,available,66.98,66.98,medium,low,8,namecheap,,,19/09/2026 19:54
 e2590a5e-c283-4c78-a380-6e9ad0a133bc,alexander.paris,available,66.98,66.98,high,medium,9,namecheap,,,28/09/2026 20:15
@@ -265,22 +296,25 @@ e2590a5e-c283-4c78-a380-6e9ad0a133bc,alexander.paris,available,66.98,66.98,high,
 8cb85fc7-7df7-47ff-b999-0986f82ff03c,piquant.paris,available,65.99,65.99,high,low,7,name.com,,,17/08/2026 07:38
 280ceb8f-73f1-46a0-9bc2-a32df6e79f04,carping.paris,available,65.99,65.99,medium,low,7,name.com,,,18/08/2026 00:03
 7486c47e-8733-4ff8-b6dc-90b0c768fc61,buttercup.paris,available,66.98,66.98,high,low,9,namecheap,,,24/09/2026 11:18
+3b33d735-03fd-4057-82f4-32e064cdb811,romanians.paris,available,66.98,66.98,medium,low,9,namecheap,,,30/09/2026 00:08
 4f881b07-2f06-47c6-89a4-8338f502d7f8,directors.paris,available,66.98,66.98,medium,low,9,namecheap,,,28/09/2026 08:43
 8a7fcc21-6172-43a8-8213-482367ff1966,fleeing.paris,available,66.98,66.98,medium,low,7,namecheap,,,29/09/2026 03:23
 6ceb77d7-f494-4ecb-96c4-9ded8f65eb90,ammeter.paris,available,66.98,66.98,medium,low,7,namecheap,,,18/09/2026 22:00
+59e52e6d-b2ff-437a-b2ab-6faf73fe1ea5,veronica.paris,available,66.98,66.98,high,low,8,namecheap,,,30/09/2026 02:57
+da9cd40f-8526-4a2e-b8ee-293198696a51,imagery.paris,available,66.98,66.98,high,low,7,namecheap,,,29/09/2026 19:16
 7e6c2a0a-37db-4cf5-8e34-10eb413982c5,bitterroot.paris,available,66.98,66.98,medium,low,10,namecheap,,,23/09/2026 23:08
-5f2a5188-5b7a-40ac-bbb7-0184e3e21e25,kilogram.paris,available,51.98,,high,low,8,namecheap,,,
+5f2a5188-5b7a-40ac-bbb7-0184e3e21e25,kilogram.paris,available,22.99,67.99,high,low,8,godaddy,,,30/09/2026 01:44
 fa0151ec-5b5b-4da2-9236-330d1ab8d3ec,sleeved.paris,available,65.99,65.99,high,low,7,name.com,,,10/09/2026 10:43
 86f7aa02-6a0c-47c5-bb2e-b986a21f3975,bergenia.paris,available,66.98,66.98,medium,low,8,namecheap,,,23/09/2026 09:20
 2e2f62b9-6a53-427c-83dd-5623c438d823,ghoulish.paris,available,65.99,65.99,medium,low,8,name.com,,,18/08/2026 23:21
 d2905e18-c205-4b8a-95c5-6e56a52f899c,bailor.paris,available,66.98,66.98,medium,low,6,namecheap,,,21/09/2026 19:14
-4cc1b260-87cb-4e2f-bf10-b5c963f9b5e2,rightfully.paris,available,66.98,66.98,medium,low,10,namecheap,,,15/09/2026 23:44
+4cc1b260-87cb-4e2f-bf10-b5c963f9b5e2,rightfully.paris,available,66.98,66.98,high,low,10,namecheap,,,15/09/2026 23:44
 0e6dd00a-0491-4f4b-b43c-753e99808931,sportsperson.paris,available,66.98,66.98,high,low,12,namecheap,,,16/09/2026 08:58
-887c59ef-72de-492a-8ea5-92eede0ef891,carob.paris,available,66.98,66.98,medium,low,5,namecheap,,,18/09/2026 06:50
-7449ff18-c475-4302-8fa6-4e9a2860a764,farsighted.paris,available,65.99,65.99,medium,low,10,name.com,,,17/08/2026 22:41
+887c59ef-72de-492a-8ea5-92eede0ef891,carob.paris,available,66.98,66.98,high,low,5,namecheap,,,18/09/2026 06:50
+7449ff18-c475-4302-8fa6-4e9a2860a764,farsighted.paris,available,65.99,65.99,high,low,10,name.com,,,17/08/2026 22:41
 cce1df9a-5830-4b90-8053-cec8c8942553,covert.paris,available,66.98,66.98,high,low,6,namecheap,,,24/09/2026 00:53
 7cc022b5-ef72-44fd-84f3-61232fe229f2,sorcery.paris,available,65.99,65.99,high,low,7,name.com,,,23/09/2026 23:51
-5ba79c4d-c667-44b8-94dc-4e949678ffd5,snicker.paris,available,51.98,,medium,low,7,namecheap,,,
+5ba79c4d-c667-44b8-94dc-4e949678ffd5,snicker.paris,available,51.98,,high,low,7,namecheap,,,
 04d86adc-6d13-4e74-9c4e-467637f9679d,culpable.paris,available,65.99,65.99,medium,low,8,name.com,,,10/08/2026 12:34
 96bab4e4-63af-4ee0-aedc-d3bf21714d91,unowned.paris,available,66.98,66.98,medium,low,7,namecheap,,,04/09/2026 22:16
 7dd8b7b1-8cdd-4e8f-b800-7c69bb9c6cf0,mistress.paris,available,66.98,66.98,high,low,8,namecheap,,,27/09/2026 14:35
@@ -288,9 +322,10 @@ cce1df9a-5830-4b90-8053-cec8c8942553,covert.paris,available,66.98,66.98,high,low
 bbf6b832-6047-47cb-ac08-b1bccc1fc7f3,asserted.paris,available,65.99,65.99,medium,low,8,name.com,,,07/08/2026 05:54
 bd0633cc-49f1-448b-85e2-541fd2ad127d,enmity.paris,available,66.98,66.98,medium,low,6,namecheap,,,19/09/2026 12:26
 cb80af71-b9df-422f-9504-482c7ff290f2,stimulus.paris,available,66.98,66.98,high,low,8,namecheap,,,10/09/2026 20:39
+1d410ce7-a7b2-472e-a017-bd531ed2e1c5,punches.paris,available,66.98,66.98,low,low,7,namecheap,,,29/09/2026 05:46
 df6925e6-1eb0-4f34-b70a-4c0697ea9cee,mechanical.paris,available,66.98,66.98,high,low,10,namecheap,,,25/09/2026 18:43
 1d9bcec7-f8f3-49be-8d7f-03d164599f68,dreadful.paris,available,66.98,66.98,high,low,8,namecheap,,,22/09/2026 15:15
-5222be7e-928b-469a-b50e-093be8a4de2e,shortage.paris,available,66.98,66.98,medium,low,8,namecheap,,,28/09/2026 18:53
+5222be7e-928b-469a-b50e-093be8a4de2e,shortage.paris,available,66.98,66.98,high,low,8,namecheap,,,28/09/2026 18:53
 52e55bf7-dd8b-4bc4-8b49-eae788a935b1,adler.paris,available,66.98,66.98,high,low,5,namecheap,,,25/09/2026 13:44
 a927f6c7-2cd5-48e2-8e78-b3f0e81bfb72,drearily.paris,available,65.99,65.99,medium,low,8,name.com,,,14/09/2026 13:12
 3d72136b-2fe7-46ce-8190-4e54d9696379,indiscrete.paris,available,65.99,65.99,medium,low,10,name.com,,,22/08/2026 03:09
@@ -299,12 +334,15 @@ ad4b70dc-d868-42f4-8531-9ae7d5dca328,part.paris,available,66.98,66.98,high,low,4
 3d03443f-8da6-4637-98b5-1f71f445dcf4,bubonic.paris,available,65.99,65.99,medium,low,7,name.com,,,11/08/2026 07:26
 6a34ac0a-b744-46b3-a6d8-a9a5b8d3cf50,parous.paris,available,66.98,66.98,medium,low,6,namecheap,,,08/09/2026 01:52
 950dc327-ef82-44f8-9948-539c7b453d00,qin.paris,available,66.98,66.98,medium,low,3,namecheap,,,28/09/2026 13:41
+66f57af9-ddc4-49ec-964f-84925a8bde76,romano.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 10:38
 ef34fc81-c6fe-4c50-8183-df4f81016a53,stunting.paris,available,66.98,66.98,medium,low,8,namecheap,,,17/09/2026 12:54
 64ae06fd-f6d0-4345-88da-3bc8eb02c973,appal.paris,available,66.98,66.98,medium,low,5,namecheap,,,18/09/2026 01:52
 e3ef6c51-503a-4e99-abb1-72579374ce21,artifice.paris,available,66.98,66.98,high,low,8,namecheap,,,20/09/2026 11:34
 fd8e0441-c7e4-450e-8e51-6a4bd5f13934,discharge.paris,available,66.98,66.98,high,low,9,namecheap,,,20/09/2026 01:05
 d18df02b-3026-4e16-88cc-f5083f86929c,tux.paris,available,66.98,66.98,high,low,3,namecheap,,,24/09/2026 01:52
 8bb3f081-3d72-41f3-b976-10372b07ce8e,pager.paris,available,66.98,66.98,high,low,5,namecheap,,,23/09/2026 01:32
+20ef912d-ae1f-41e6-a4d3-643cb3e38c73,guarantees.paris,available,66.98,66.98,medium,low,10,namecheap,,,29/09/2026 11:28
+58550616-6a57-47ab-b945-d89de7c10df9,srs.paris,available,66.98,66.98,high,low,3,namecheap,,,29/09/2026 23:23
 cdc207e3-4b1e-4690-8a86-add665cb863e,weighted.paris,available,66.98,66.98,high,low,8,namecheap,,,13/09/2026 10:08
 3ac3df34-33e5-401d-8d09-625f186b168f,married.paris,available,66.98,66.98,high,low,7,namecheap,,,25/09/2026 16:47
 70e5032c-b764-4b5c-bfbb-cb961660cd20,according.paris,available,65.99,65.99,high,low,9,name.com,,,
@@ -338,36 +376,41 @@ e4406524-74df-4e6d-86c4-a6d3144326a4,vhf.paris,available,22.99,67.99,high,low,3,
 e96e4557-15c0-46a4-94e8-80c5921eddd1,blusher.paris,available,66.98,66.98,high,low,7,namecheap,,,18/09/2026 15:49
 2ca4e060-d5f6-436b-9f8e-8fb1937114e3,whiner.paris,available,66.98,66.98,medium,low,6,namecheap,,,23/09/2026 06:44
 5a7a86a0-5c8f-4497-9d17-4ab4888baee7,assure.paris,premium,366.97,,high,low,6,name.com,,,
+0221c425-5435-4b55-afc1-3f6dfd3e4828,rostov.paris,available,66.98,66.98,high,low,6,namecheap,,,30/09/2026 02:44
 ecdd7261-7f52-4687-8b19-c642a3e90308,uneasy.paris,available,65.99,65.99,medium,low,6,name.com,,,21/08/2026 19:45
 1d5ad548-e56c-4a92-bca2-34c53661a731,arcadian.paris,available,65.99,65.99,high,low,8,name.com,,,06/08/2026 14:10
 128a6e19-e91f-42b7-8ac5-e2ebd8daa5e9,counting.paris,available,65.99,65.99,high,low,8,name.com,,,25/09/2026 04:26
 b0e153bb-57fd-4bbe-acee-5295eb700805,exceptionally.paris,available,66.98,66.98,medium,low,13,namecheap,,,29/09/2026 03:12
 0be9cfaa-b843-4ee6-aff0-95ab6717e95f,northwards.paris,available,66.98,66.98,medium,low,10,namecheap,,,03/09/2026 21:25
+0c39985e-20c5-4420-b093-3b28211c3b55,cuyahoga.paris,available,66.98,66.98,medium,low,8,namecheap,,,29/09/2026 10:08
 ddd0d283-fa1d-4e9e-af7f-a27760d72baf,checked.paris,available,65.99,65.99,high,low,7,name.com,,,12/08/2026 03:36
 6dc7a311-1280-409b-9337-fc0ff7681069,alee.paris,available,66.98,66.98,low,low,4,namecheap,,,13/09/2026 18:38
-fdcd042f-ef2d-43fc-9e9f-abbb18b80029,gratefully.paris,available,66.98,66.98,medium,low,10,namecheap,,,13/09/2026 20:28
+fdcd042f-ef2d-43fc-9e9f-abbb18b80029,gratefully.paris,available,66.98,66.98,high,low,10,namecheap,,,13/09/2026 20:28
 47e56ae2-5f26-4212-b996-73e19dad48a4,leaded.paris,available,65.99,65.99,medium,low,6,name.com,,,22/08/2026 21:42
 5a49cddf-3981-4cd4-a004-a93d1f823ca6,irrelevant.paris,available,66.98,66.98,high,low,10,namecheap,,,25/09/2026 11:28
 301696e4-74ea-4df2-93a1-163cc67a8fc2,yamani.paris,available,66.98,66.98,medium,low,6,namecheap,,,17/09/2026 20:29
+bd16653c-8dc2-4c0d-8814-5605dad3ec13,jamieson.paris,available,66.98,66.98,high,low,8,namecheap,,,29/09/2026 22:21
 9c995795-bbbb-49f4-88f1-61242974b3de,birdsong.paris,available,66.98,66.98,high,low,8,namecheap,,,23/09/2026 20:37
 2a4eebe1-6551-4c0d-a89b-b2bfdc04ef22,blink.paris,available,66.98,66.98,high,medium,5,namecheap,,,22/09/2026 22:02
 6499c706-485a-452a-93f2-bbf48d345fd9,skunk.paris,available,65.99,65.99,high,low,5,name.com,,,11/08/2026 09:13
 9d355fbb-b2bf-4d76-9bd0-5a326701c9fd,napped.paris,available,65.99,65.99,medium,low,6,name.com,,,18/08/2026 07:44
-06823470-d1ef-49e8-ba63-79c7e8a0b85a,democrat.paris,available,51.98,,high,low,8,namecheap,,,
+221ed175-da22-4b57-b073-1b7ffe910ce3,reds.paris,available,66.98,66.98,high,medium,4,namecheap,,,29/09/2026 05:44
+06823470-d1ef-49e8-ba63-79c7e8a0b85a,democrat.paris,available,66.98,66.98,high,low,8,namecheap,,,29/09/2026 13:56
+3d65d737-bc10-4ae5-90b2-31a3289c1892,shampoo.paris,available,66.98,66.98,high,low,7,namecheap,,,30/09/2026 02:51
 089abc1f-4f15-4661-a82b-ee503beed0f1,pusher.paris,available,66.98,66.98,high,low,6,namecheap,,,21/09/2026 13:22
-89590136-715e-485e-8f4d-8677217e4c25,adjuvant.paris,available,65.99,65.99,medium,low,8,name.com,,,
+89590136-715e-485e-8f4d-8677217e4c25,adjuvant.paris,available,65.99,65.99,high,low,8,name.com,,,
 8909ae69-42ab-4c63-b315-41f6c80c83ea,splattered.paris,available,65.99,65.99,medium,low,10,name.com,,,13/08/2026 15:21
 91daa2d4-407e-474f-8713-c1607e45c2f8,angiogram.paris,available,66.98,66.98,medium,low,9,namecheap,,,19/09/2026 06:13
 3b51911c-9d2e-49ec-986c-f098ffc276d2,disturb.paris,available,51.98,,high,low,7,namecheap,,,
 c1090e2b-5ac2-4913-a71e-42ac54456e5c,cavalier.paris,premium,360.64,360.64,high,low,8,name.com,,,11/08/2026 22:48
 e592bb71-5e12-4e8e-8016-25d86e945972,wheeler.paris,available,66.98,66.98,high,low,7,namecheap,,,23/09/2026 13:27
 3b7ee6f9-4378-4c07-b33e-572865f2e7a7,taradiddle.paris,available,66.98,66.98,medium,low,10,namecheap,,,21/09/2026 23:52
-41fe4ae4-b1e4-4ad2-a815-0a54451ef1c3,anas.paris,available,66.98,66.98,medium,low,4,namecheap,,,19/09/2026 02:30
+41fe4ae4-b1e4-4ad2-a815-0a54451ef1c3,anas.paris,available,66.98,66.98,high,low,4,namecheap,,,19/09/2026 02:30
 1dee7d07-2c9b-4a9e-9c35-b39605dc0344,urinate.paris,available,66.98,66.98,medium,low,7,namecheap,,,13/09/2026 09:41
 0bf8a7e5-5c18-490d-96f7-cd71790a5190,would.paris,available,51.98,,high,low,5,namecheap,,,
 9709c3c4-c857-4ddd-8c17-5eeb08ed859b,lookouts.paris,available,66.98,66.98,medium,low,8,namecheap,,,18/09/2026 10:55
 975a495b-338a-42e1-a426-9a324c8476aa,barouche.paris,available,66.98,66.98,medium,low,8,namecheap,,,22/09/2026 07:43
-dd81d2c2-1998-49c0-9fd6-f249628fbf8a,ginsberg.paris,available,66.98,66.98,medium,low,8,namecheap,,,18/09/2026 10:49
+dd81d2c2-1998-49c0-9fd6-f249628fbf8a,ginsberg.paris,available,66.98,66.98,high,low,8,namecheap,,,18/09/2026 10:49
 e6066711-51b7-45a4-9a17-10ee094c6b7b,parks.paris,premium,366.64,,high,low,5,name.com,,,
 8e58662a-3578-4af5-81a8-3920615503b1,animator.paris,available,66.98,66.98,high,low,8,namecheap,,,19/09/2026 09:13
 71f69f34-490b-4cc3-8d80-b0b852ced8e7,elimination.paris,available,66.98,66.98,high,low,11,namecheap,,,28/09/2026 02:39
@@ -377,6 +420,7 @@ a364a142-d5d8-4278-8125-8753b3b05334,offending.paris,available,66.98,66.98,mediu
 7d4d68b4-d086-40a8-8c7c-6e84d5b2b475,tyranny.paris,available,66.98,66.98,medium,low,7,namecheap,,,16/09/2026 18:02
 fbdd9540-10e2-4bb1-900f-9f4a8c13228f,passengers.paris,available,66.98,66.98,medium,low,10,namecheap,,,27/09/2026 02:28
 4ce36b9d-c990-4abe-9344-684303b5cfe7,inspection.paris,available,66.98,66.98,high,low,10,namecheap,,,28/09/2026 03:38
+46a31747-c1df-4f64-8210-a37279b8c5cc,infirmary.paris,available,66.98,66.98,high,low,9,namecheap,,,29/09/2026 13:04
 1e0c33e9-a21c-4e32-8a85-e9d851c2ff6f,bronchial.paris,available,65.99,65.99,medium,low,9,name.com,,,11/08/2026 05:35
 257925f3-0262-43cb-b8ec-21f4d12c6e4f,foote.paris,available,66.98,66.98,medium,low,5,namecheap,,,28/09/2026 08:03
 7cad4897-8a98-4915-9478-8fbcc45e56b0,height.paris,available,66.98,66.98,high,low,6,namecheap,,,25/09/2026 19:39
@@ -387,11 +431,13 @@ d78f771d-40a3-4172-a7d0-e6a07e967e6c,tunguska.paris,available,66.98,66.98,medium
 2c65e200-ced1-45f1-b703-313e53494e00,nut.paris,available,66.98,66.98,high,low,3,namecheap,,,10/09/2026 00:12
 89442171-96d9-4781-94d3-46bb191a5138,awards.paris,available,66.98,66.98,medium,low,6,namecheap,,,28/09/2026 08:41
 b385e0ab-9d42-4332-b1b5-1af4b5064768,cruise.paris,resell,,,high,low,6,GoDaddy.com LLC,22/03/2026 12:27,22/03/2027 12:27,26/09/2026 05:21
+1c0ed517-7246-4328-971f-780962ff2280,hildebrand.paris,available,66.98,66.98,medium,low,10,namecheap,,,30/09/2026 01:47
 122ddc10-5480-4327-bf21-34efe695e4c2,locating.paris,available,66.98,66.98,high,low,8,namecheap,,,09/09/2026 00:10
 c6c0111d-da7a-4208-b088-4692eae17c09,choler.paris,available,66.98,66.98,medium,low,6,namecheap,,,19/09/2026 06:04
 77e92616-a53d-469f-828e-360458353394,barbaric.paris,available,65.99,65.99,medium,low,8,name.com,,,08/08/2026 15:31
 ba982942-9c65-4a71-a9e1-eddf74ba37d2,opposed.paris,available,66.98,66.98,high,low,7,namecheap,,,04/09/2026 16:45
 7a6c797c-b6e6-4af0-99af-1a789b2097ef,smoky.paris,available,66.98,66.98,medium,low,5,namecheap,,,10/09/2026 11:59
+5ec51c43-bc33-4999-89af-b3c525180a64,dalhousie.paris,available,66.98,66.98,medium,low,9,namecheap,,,29/09/2026 21:41
 41ecd222-96d7-4c5f-9fcf-9366e9e31d26,allowing.paris,available,66.98,66.98,medium,low,8,namecheap,,,28/09/2026 08:42
 00baa04c-a660-401b-b3fa-f9dd347d0e4c,babar.paris,available,66.98,66.98,high,low,5,namecheap,,,21/09/2026 12:14
 b15dd378-220c-43d1-bcec-886306041a62,optimally.paris,available,66.98,66.98,medium,low,9,namecheap,,,15/09/2026 18:05
@@ -411,7 +457,7 @@ a271ff98-ee14-4aca-98d9-dc5275614276,eulogistic.paris,available,65.99,65.99,medi
 08d714a4-f090-4809-8523-40e06dd14dfd,plunk.paris,available,66.98,66.98,medium,low,5,namecheap,,,15/09/2026 20:41
 9c596550-8776-499f-bf25-05bba268c8dc,clove.paris,available,66.98,66.98,high,low,5,namecheap,,,24/09/2026 16:05
 517ae98d-6d7d-4035-8253-b63d2bf7ddc9,screenshot.paris,available,51.98,,high,low,10,namecheap,,,
-70545de5-5370-4419-acc2-5438c1194251,oslo.paris,available,51.98,,high,low,4,namecheap,,,
+70545de5-5370-4419-acc2-5438c1194251,oslo.paris,available,66.98,66.98,high,low,4,namecheap,,,29/09/2026 06:45
 0c4d1ff9-05a5-42a2-95b5-4e5ba8665d35,intensity.paris,available,66.98,66.98,high,low,9,namecheap,,,28/09/2026 09:23
 3935645c-31e1-467d-8a83-2e0aded9bb92,enkindled.paris,available,65.99,65.99,medium,low,9,name.com,,,17/08/2026 09:31
 c89a6986-9a15-4aad-941d-c13596a6c75e,gentle.paris,available,65.99,65.99,high,low,6,name.com,,,06/08/2026 19:29
@@ -420,18 +466,21 @@ aa2ea768-020a-4728-a770-b696a5af123e,samarium.paris,available,66.98,66.98,medium
 3da5401e-1015-40bf-b9ec-56eab925cf62,speedup.paris,available,51.98,,high,low,8,namecheap,,,
 39ecfd0b-0d6e-4940-b8d3-f2fe09b50f64,nauseous.paris,available,65.99,65.99,medium,low,8,name.com,,,24/08/2026 08:24
 bb3e7119-6cf2-48e5-ae11-1dc74c0e9367,bustle.paris,available,65.99,65.99,high,low,6,name.com,,,17/09/2026 09:10
-946d9060-bec0-4df9-a81b-a80d89fdbb52,crocodile.paris,available,51.98,,high,low,9,namecheap,,,
+946d9060-bec0-4df9-a81b-a80d89fdbb52,crocodile.paris,available,66.98,66.98,high,low,9,namecheap,,,29/09/2026 12:11
 2650157a-2115-4891-95c2-f5759f0fa9f1,stallion.paris,available,66.98,66.98,high,low,8,namecheap,,,24/09/2026 14:09
 b5118a5f-a226-4d8b-8c69-24019292342c,despairing.paris,available,65.99,65.99,medium,low,10,name.com,,,14/08/2026 03:56
 59fdc59b-687b-438b-b858-1667e12524ba,contingent.paris,available,66.98,66.98,high,low,10,namecheap,,,23/09/2026 22:07
 3498bb97-1ea8-4361-90d8-9c2998421cff,responded.paris,available,66.98,66.98,medium,low,9,namecheap,,,18/09/2026 18:02
 1a51ec71-74a5-4ea0-82b1-fe372ec310a7,remembering.paris,available,51.98,,high,low,11,namecheap,,,
-6f0292c3-8110-4256-8d83-e9f04c8bfbd7,sweetened.paris,available,66.98,66.98,medium,low,9,namecheap,,,11/09/2026 01:18
+6f0292c3-8110-4256-8d83-e9f04c8bfbd7,sweetened.paris,available,66.98,66.98,high,low,9,namecheap,,,11/09/2026 01:18
 6af507c1-aba5-4d77-8bab-915c9a1ddc8a,fill.paris,available,65.99,65.99,high,low,4,name.com,,,27/09/2026 11:50
 901cd488-1838-4cfc-901d-f24bd7f78028,gruntle.paris,available,65.99,65.99,medium,low,7,name.com,,,18/08/2026 22:14
+a321acea-a6d1-4fa4-b255-938755155924,bangladeshi.paris,available,66.98,66.98,high,low,11,namecheap,,,30/09/2026 03:22
 d0f55e69-f799-4ea4-ba60-aed322d85214,unshelled.paris,available,66.98,66.98,high,medium,9,namecheap,,,10/09/2026 06:23
+26cdda65-fb00-4f41-b5e0-c900b705cb98,integration.paris,available,66.98,66.98,high,low,11,namecheap,,,29/09/2026 23:22
+5d23d6e1-c3d0-40f4-9569-6d915f547377,differential.paris,available,66.98,66.98,high,low,12,namecheap,,,29/09/2026 21:05
 9657760b-c785-4ab7-8388-7ff313d1f1c1,empowered.paris,available,65.99,65.99,high,low,9,name.com,,,16/08/2026 18:26
-7987b8d9-c8da-4fd4-867f-5a78a2f889d9,shin.paris,available,51.98,,high,low,4,namecheap,,,
+7987b8d9-c8da-4fd4-867f-5a78a2f889d9,shin.paris,available,66.98,66.98,high,low,4,namecheap,,,29/09/2026 09:47
 433f799a-8201-460f-bba1-c6139dfcf62c,shelflike.paris,available,66.98,66.98,high,medium,9,namecheap,,,10/09/2026 06:22
 9f25d6e3-0c04-4f74-bc4e-c4ed4cffebcb,tracey.paris,available,66.98,66.98,medium,low,6,namecheap,,,28/09/2026 21:51
 ef813815-c4cf-455a-995f-a4c9f0e86cd9,dreamless.paris,available,65.99,65.99,medium,low,9,name.com,,,14/08/2026 18:43
@@ -459,6 +508,7 @@ d64c2a8c-22da-4c27-89df-bba88a523452,battalion.paris,available,66.98,66.98,high,
 2c5efc4a-c123-41c6-a2c9-6952c9cb139d,atropa.paris,available,66.98,66.98,medium,low,6,namecheap,,,21/09/2026 00:54
 6e3ba1a6-a23f-482a-b40b-1147508d7b50,moo.paris,available,65.99,65.99,high,low,3,name.com,,,24/08/2026 10:19
 8d8e1e2c-5ec4-4770-9f1b-868c764d97d6,guadalajara.paris,available,66.98,66.98,high,low,11,namecheap,,,28/09/2026 07:53
+57f3b3a8-0b43-48ec-8bf3-1a3a471a9571,resisted.paris,available,66.98,66.98,medium,low,8,namecheap,,,29/09/2026 16:36
 d15b5581-aae9-42ed-a928-815669780a44,rko.paris,available,66.98,66.98,medium,low,3,namecheap,,,28/09/2026 21:41
 161a5675-4d1d-402a-9115-74520114ffde,oratorical.paris,available,66.98,66.98,medium,low,10,namecheap,,,04/09/2026 17:30
 b0b9bd72-2622-4aea-a3e7-108feefbef50,commonweal.paris,available,51.98,,high,low,11,namecheap,,,
@@ -486,6 +536,7 @@ e262ee59-674a-4680-85b0-baeb5ba32045,safest.paris,available,66.98,66.98,high,low
 99eb781d-caa0-4301-9092-c2200797e7e9,cad.paris,available,66.98,66.98,high,low,3,namecheap,,,24/09/2026 02:18
 faa163ff-3e06-4605-b18f-4e9d56f74e67,swelled.paris,available,66.98,66.98,medium,low,7,namecheap,,,11/09/2026 05:38
 63cd4b0d-2068-4266-a9cc-a6c90df9fb77,nfl.paris,available,66.98,66.98,high,low,3,namecheap,,,26/09/2026 03:28
+3b9ea167-0e33-4aa6-902d-663acbcd5892,seaman.paris,available,22.99,67.99,medium,low,6,godaddy,,,30/09/2026 01:29
 8c8dac8c-fb7e-4041-b705-60c6ce202b9d,apophatic.paris,available,65.99,65.99,medium,low,9,name.com,,,06/08/2026 02:27
 3fc7171b-1afd-4900-a3e5-d9816cce4657,tellurian.paris,available,66.98,66.98,medium,low,9,namecheap,,,11/09/2026 10:37
 b2734c13-8398-48e4-8e3f-91e9f4f68b13,burial.paris,available,66.98,66.98,medium,low,6,namecheap,,,24/09/2026 11:18
@@ -503,25 +554,28 @@ e71ed0a7-1fe5-4e94-8466-4b3d54bd256c,honduran.paris,available,65.99,65.99,high,l
 e89bb286-a1d7-4709-ad10-c55d988c900a,enhance.paris,available,51.98,,high,low,7,namecheap,,,
 5ba1d0fe-12af-4d11-bc65-2d517fc2bdd7,accordingly.paris,available,66.98,66.98,medium,low,11,namecheap,,,29/09/2026 02:47
 6053b619-b41e-4a1b-9124-11c11a99a728,norris.paris,available,66.98,66.98,high,low,6,namecheap,,,23/09/2026 08:18
+e82ce8f4-7f7e-47e5-ae42-fc058f434d4a,mast.paris,available,66.98,66.98,high,low,4,namecheap,,,29/09/2026 19:37
 a01709ed-6075-4793-9c6d-090ea94ceb93,unimportant.paris,available,51.98,,medium,low,11,namecheap,,,
 ad3ba5f2-8979-4f8c-b330-bea38d58a0b6,curtains.paris,available,66.98,66.98,medium,low,8,namecheap,,,28/09/2026 23:24
 f7367ac6-3664-499d-bd0e-c845fd5b748f,goliath.paris,available,66.98,66.98,high,low,7,namecheap,,,23/09/2026 03:22
 9bea62b8-7e40-457d-9196-f4930a30552f,employ.paris,available,66.98,66.98,high,low,6,namecheap,,,08/09/2026 13:39
 a345961f-94f7-4b92-b01a-2e774b72fcab,waving.paris,available,66.98,66.98,high,low,6,namecheap,,,28/09/2026 15:32
-91bb9ecd-d051-4270-b042-1e9ad8dfa21c,crash.paris,available,51.98,,high,low,5,namecheap,,,
+91bb9ecd-d051-4270-b042-1e9ad8dfa21c,crash.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 09:51
 e72d7d46-0351-42ab-8e4d-e89717a879a9,smallpox.paris,available,66.98,66.98,medium,low,8,namecheap,,,29/09/2026 02:12
 256ab7eb-01c9-43e2-b85f-27700b79167e,crawl.paris,available,66.98,66.98,high,low,5,namecheap,,,21/09/2026 04:48
 4dd373e2-7de1-494f-ad15-dacc54696ae3,milwaukee.paris,available,66.98,66.98,high,low,9,namecheap,,,29/09/2026 01:40
 256cf270-b7ff-4c09-8b90-050aeddd9fe3,seminal.paris,available,65.99,65.99,high,low,7,name.com,,,18/08/2026 22:51
 bfdfa135-42f4-46bb-87bd-96f8264d94e0,widgeon.paris,available,66.98,66.98,medium,low,7,namecheap,,,19/09/2026 02:58
 1383e1d1-940a-4abb-8377-fbdfa44bd788,foreigner.paris,available,65.99,65.99,high,low,9,name.com,,,
+cb4dfeae-fd7a-41af-9a36-ee1d1002eff0,uci.paris,available,66.98,66.98,high,low,3,namecheap,,,29/09/2026 09:30
+79db18c0-0af6-40be-aa4d-e760039b0896,breckinridge.paris,available,66.98,66.98,medium,low,12,namecheap,,,29/09/2026 15:54
 3089ccc5-c1cd-443a-a321-a51e5793f97c,vocally.paris,available,66.98,66.98,medium,low,7,namecheap,,,16/09/2026 11:07
 339c8ebb-bde6-4ff8-9703-b8809662f66e,akan.paris,available,66.98,66.98,high,low,4,namecheap,,,17/09/2026 23:50
 dbd68c26-09a1-44f2-aa11-9d6794cf980c,prayer.paris,available,22.99,67.99,high,low,6,godaddy,,,28/09/2026 01:59
 6caff470-c262-4cd1-8f52-f4e352951962,dashing.paris,available,65.99,65.99,high,low,7,name.com,,,13/08/2026 17:27
 09fd886f-2844-400a-ab1e-ac125cf3dcb5,door.paris,available,66.98,66.98,high,low,4,namecheap,,,19/09/2026 10:21
 dd69a695-6dfe-4224-bbfc-e70a69acea24,outre.paris,available,65.99,65.99,medium,low,5,name.com,,,10/08/2026 10:39
-03cd7ba7-6ef0-4e45-8518-0eec0e1305e6,eyesight.paris,available,51.98,,high,low,9,namecheap,,,
+03cd7ba7-6ef0-4e45-8518-0eec0e1305e6,eyesight.paris,available,66.98,66.98,high,low,9,namecheap,,,29/09/2026 18:51
 3ce94c7f-c8ec-43d8-a51b-9a4a9920301d,hominid.paris,available,65.99,65.99,medium,low,7,name.com,,,21/08/2026 12:39
 edcbdf3c-1dba-4f99-8578-d3d7665e5f39,judge.paris,available,66.98,66.98,high,low,5,namecheap,,,25/09/2026 05:43
 44ed8df2-fbdd-48ab-be59-8b80370249a0,humpback.paris,available,65.99,65.99,medium,low,8,name.com,,,13/08/2026 07:47
@@ -532,12 +586,15 @@ c7d9379f-6e14-4acb-8f8b-715a1d27d845,piss.paris,available,66.98,66.98,high,low,4
 f1d55e22-b639-4743-ae4f-e0a971118675,humidity.paris,available,66.98,66.98,high,low,8,namecheap,,,29/09/2026 01:18
 40cf24b8-65f1-4f2b-a7f9-96c94324f474,overt.paris,available,66.98,66.98,high,low,5,namecheap,,,04/09/2026 21:53
 0e8abab2-ec55-4cd1-a4bd-5637cb8f5ee3,bagatelle.paris,available,66.98,66.98,high,low,9,namecheap,,,21/09/2026 17:53
+67c953e8-6e76-4ca5-87c6-a41c24dffecf,akira.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 09:49
+090005e7-ae2d-43e7-a0bd-5a0dc19e03ce,chores.paris,available,66.98,66.98,medium,low,6,namecheap,,,29/09/2026 17:46
 f09b5c4c-4bd6-4c8f-bd1a-887d609d4089,banning.paris,available,65.99,65.99,medium,low,7,name.com,,,18/08/2026 11:11
 d636cab1-ab58-448e-904a-9f08cc42c6a4,tatum.paris,available,66.98,66.98,high,low,5,namecheap,,,20/09/2026 10:00
-6c1af421-de24-4034-8556-7003478c5358,nest.paris,available,51.98,,high,medium,4,namecheap,,,
+42ae2cdb-6a7d-49d5-a062-4cfa2c656f53,tis.paris,available,66.98,66.98,high,low,3,namecheap,,,29/09/2026 23:40
+6c1af421-de24-4034-8556-7003478c5358,nest.paris,available,66.98,66.98,high,medium,4,namecheap,,,29/09/2026 13:00
 ced2901d-c416-4603-a358-4b0dbf089ef8,qualitative.paris,available,51.98,,high,low,11,namecheap,,,
-2071319d-d204-4723-8fef-15a12b6e183f,sense.paris,available,51.98,,high,medium,5,namecheap,,,
-8cd81b04-79c8-4162-85df-5ce3691ea623,quotidian.paris,available,65.99,65.99,medium,low,9,name.com,,,17/08/2026 14:57
+2071319d-d204-4723-8fef-15a12b6e183f,sense.paris,available,66.98,66.98,high,medium,5,namecheap,,,29/09/2026 10:28
+8cd81b04-79c8-4162-85df-5ce3691ea623,quotidian.paris,available,65.99,65.99,high,low,9,name.com,,,17/08/2026 14:57
 c56161c0-2ca2-428a-b62d-87f8a4e3dca8,miao.paris,available,65.99,65.99,high,low,4,name.com,,,21/08/2026 10:03
 06067240-43c1-4cf4-9cab-30fc199e3312,dished.paris,available,65.99,65.99,medium,low,6,name.com,,,14/08/2026 10:52
 0f09a67c-170a-41d7-a244-de94f8c5b8d4,stellate.paris,available,66.98,66.98,medium,low,8,namecheap,,,09/09/2026 09:34
@@ -546,7 +603,7 @@ c56161c0-2ca2-428a-b62d-87f8a4e3dca8,miao.paris,available,65.99,65.99,high,low,4
 f7463483-d483-4e10-b65f-18f8f9fb3800,favorites.paris,available,66.98,66.98,medium,low,9,namecheap,,,28/09/2026 18:13
 a491e59d-926b-404b-a1cd-d8ca9cd20c51,webmasters.paris,available,66.98,66.98,medium,low,10,namecheap,,,18/09/2026 23:06
 77609391-f4e7-4ca6-a2d1-218f051e5e2b,anhinga.paris,available,66.98,66.98,medium,low,7,namecheap,,,19/09/2026 08:18
-161f5b52-c1e7-4677-a327-c03276508500,expression.paris,available,51.98,,high,low,10,namecheap,,,
+161f5b52-c1e7-4677-a327-c03276508500,expression.paris,available,66.98,66.98,high,low,10,namecheap,,,29/09/2026 18:43
 219826d4-47aa-4c9f-8f3a-0456ed08ca49,other.paris,available,51.98,,high,low,5,namecheap,,,26/09/2026 00:34
 7eb9977f-8c51-4f7f-9a27-b1fd06d3002b,jew.paris,available,66.98,66.98,high,low,3,namecheap,,,25/09/2026 23:17
 ad25154c-2c6f-40f0-be6b-5863a01e611a,isfahan.paris,available,66.98,66.98,high,low,7,namecheap,,,20/09/2026 14:32
@@ -554,13 +611,16 @@ b344582e-20ce-4857-a1e9-9edffc6ecba5,sorrowful.paris,available,66.98,66.98,mediu
 fba7a689-e416-4ded-9679-58a3e868d964,beloved.paris,available,65.99,65.99,high,low,7,name.com,,,09/08/2026 13:47
 26a080e2-68b6-4d36-a8c0-cdb551bed6af,dominance.paris,available,66.98,66.98,high,low,9,namecheap,,,28/09/2026 22:25
 1b02ceeb-47d3-456f-8a60-1aea9f34fecc,leased.paris,available,65.99,65.99,high,low,6,name.com,,,12/08/2026 02:50
+c1862e21-3795-4e4a-84a6-1be221964e42,streams.paris,available,66.98,66.98,medium,low,7,namecheap,,,29/09/2026 16:56
+343ea708-62e9-4c98-9043-f31b855e859c,brilliantly.paris,available,66.98,66.98,high,low,11,namecheap,,,29/09/2026 21:24
 a9019771-4b98-49e3-910a-81a4e0a5c6b0,mothers.paris,available,66.98,66.98,high,low,7,namecheap,,,18/09/2026 06:34
 96d43b6b-6a18-43ac-8faa-b7d59677e0a5,hoar.paris,available,65.99,65.99,medium,low,4,name.com,,,20/08/2026 19:18
 aa35a1f6-36e4-4345-8015-1639e9df57f7,nasa.paris,available,66.98,66.98,high,low,4,namecheap,,,28/09/2026 19:59
-72315f46-0712-4a09-a27d-d163dd46fc30,bothered.paris,available,66.98,66.98,medium,low,8,namecheap,,,23/09/2026 01:08
+72315f46-0712-4a09-a27d-d163dd46fc30,bothered.paris,available,66.98,66.98,high,low,8,namecheap,,,23/09/2026 01:08
 5648aa89-6c8b-4890-b71b-dd18a3d0b49a,stall.paris,available,66.98,66.98,high,low,5,namecheap,,,27/09/2026 12:14
 4b70d9ca-1672-4b54-b51a-500de42dba68,adad.paris,available,66.98,66.98,medium,low,4,namecheap,,,17/09/2026 06:02
-41e2bfb8-b058-4a26-bfec-f79b2a23ab0a,wakes.paris,available,66.98,66.98,medium,low,5,namecheap,,,28/09/2026 13:11
+462413e0-43ea-4aba-a4b4-321ca9af7acb,octopus.paris,available,66.98,66.98,high,medium,7,namecheap,,,30/09/2026 02:24
+41e2bfb8-b058-4a26-bfec-f79b2a23ab0a,wakes.paris,available,66.98,66.98,high,low,5,namecheap,,,28/09/2026 13:11
 5bbdad47-34ef-465d-9667-e37878ef8489,pinwheel.paris,available,66.98,66.98,high,low,8,namecheap,,,17/09/2026 12:41
 47e96010-0b19-4503-b70e-54d8e7e99cda,here.paris,available,66.98,66.98,high,medium,4,namecheap,,,24/09/2026 23:42
 af2b1a0a-6dd0-4cc8-84b5-88c103ecfb09,african.paris,available,65.99,65.99,high,low,7,name.com,,,
@@ -568,10 +628,11 @@ f5cbbcde-f73b-4330-87b2-adfa26771e4e,surreal.paris,available,65.99,65.99,high,lo
 b3c93e92-19eb-444b-bb33-5fbdddc498b9,smoldering.paris,available,66.98,66.98,medium,low,10,namecheap,,,10/09/2026 12:01
 0a9691a1-9656-43da-9393-9dbec963edab,chickpea.paris,available,66.98,66.98,high,low,8,namecheap,,,24/09/2026 14:29
 430148dc-bff8-48f5-a061-09d196e16daa,ananas.paris,available,66.98,66.98,high,low,6,namecheap,,,19/09/2026 02:03
-8e5b5906-c68e-437b-91d0-4cff12023256,blinding.paris,available,65.99,65.99,medium,low,8,name.com,,,10/08/2026 13:42
+8e5b5906-c68e-437b-91d0-4cff12023256,blinding.paris,available,65.99,65.99,high,low,8,name.com,,,10/08/2026 13:42
 2b90bc6c-0702-4852-9c1e-264577f4e28c,magnified.paris,available,65.99,65.99,high,low,9,name.com,,,24/08/2026 13:08
 fe64b53d-e7ed-4b7b-a446-73245350ac26,rubicund.paris,available,66.98,66.98,high,medium,8,namecheap,,,09/09/2026 19:17
 7df5c50c-1dfd-436c-8a77-b7a27489d0f7,birdbrain.paris,available,66.98,66.98,medium,low,9,namecheap,,,17/09/2026 07:04
+b5667e43-ec14-4128-958a-57c9fabb7640,revoked.paris,available,66.98,66.98,medium,low,7,namecheap,,,30/09/2026 00:45
 b86f9a89-7fcb-4049-9a63-165b29a3fafe,peritoneal.paris,available,66.98,66.98,medium,low,10,namecheap,,,08/09/2026 17:25
 f36ae635-ff70-4c91-90a1-43253a451811,raid.paris,available,66.98,66.98,high,low,4,namecheap,,,28/09/2026 09:48
 08301563-387c-4877-a100-56fd8de36b86,forthwith.paris,available,66.98,66.98,medium,low,9,namecheap,,,10/09/2026 21:39
@@ -580,9 +641,10 @@ cfb2322b-c663-4881-91fa-051b74ec5b62,hardly.paris,available,66.98,66.98,high,low
 6aa9aef1-786c-401a-842b-72e81c8a8b3e,greenly.paris,available,66.98,66.98,medium,low,7,namecheap,,,14/09/2026 22:19
 4083f994-9cfe-409e-a026-7c5f01abd5b7,lazuline.paris,available,65.99,65.99,medium,low,8,name.com,,,08/08/2026 03:18
 04eb047d-557b-48bb-9576-09111ccafbba,governance.paris,available,65.99,65.99,high,low,10,name.com,,,20/08/2026 17:22
-162da764-6943-4d22-b68c-1ccef99f7ed0,incline.paris,available,51.98,,high,low,7,namecheap,,,
+162da764-6943-4d22-b68c-1ccef99f7ed0,incline.paris,available,66.98,66.98,high,low,7,namecheap,,,29/09/2026 23:48
 b7e23d15-a667-466d-9656-b95d9d8b5b89,mug.paris,available,66.98,66.98,high,low,3,namecheap,,,24/09/2026 14:58
 88b71790-b3fc-4926-8f46-d32da89d2e30,accomplish.paris,available,66.98,66.98,high,low,10,namecheap,,,28/09/2026 06:55
+6d177ffb-8191-488d-95bd-c9c01d03c4c6,nafta.paris,available,66.98,66.98,medium,low,5,namecheap,,,29/09/2026 07:38
 676b1e7b-701f-4eb2-b316-028b7a5f134e,ameba.paris,available,66.98,66.98,medium,low,5,namecheap,,,18/09/2026 17:40
 dd227ce2-4dfa-4029-b361-0fa04ae27a21,scientist.paris,available,66.98,66.98,high,low,9,namecheap,,,28/09/2026 12:32
 896ba2b9-be01-4d02-bd96-24599bdcbf8d,verbal.paris,available,66.98,66.98,high,low,6,namecheap,,,28/09/2026 10:13
@@ -590,17 +652,18 @@ dd227ce2-4dfa-4029-b361-0fa04ae27a21,scientist.paris,available,66.98,66.98,high,
 73b3023a-f1dd-494c-b17c-5761ab5a2a00,cereal.paris,available,65.99,65.99,high,low,6,name.com,,,12/08/2026 00:26
 cdb31975-9395-486b-9d63-9690994e9e4a,bashfully.paris,available,66.98,66.98,medium,low,9,namecheap,,,13/09/2026 23:41
 d0b82b94-c158-49e3-b056-91d10ded7563,bargee.paris,available,66.98,66.98,medium,low,6,namecheap,,,22/09/2026 05:47
-13446ae3-7cdb-4d88-962b-e9d084a4cbbd,actors.paris,available,51.98,,medium,low,6,namecheap,,,
+13446ae3-7cdb-4d88-962b-e9d084a4cbbd,actors.paris,available,51.98,,high,low,6,namecheap,,,
 ebc6e8f8-d741-4ca1-ae14-8cf85066b004,infrared.paris,available,66.98,66.98,high,low,9,namecheap,,,04/09/2026 07:52
 0e8afd4a-3d9c-4f2d-8f5c-e173e200eb32,lividly.paris,available,66.98,66.98,low,low,7,namecheap,,,15/09/2026 12:36
 e22d2ce4-c3b1-4790-a115-5238aa17bd3c,breads.paris,available,66.98,66.98,medium,low,6,namecheap,,,18/09/2026 04:07
 5d430a63-80e8-4ead-b8ab-43725baec9b3,tickets.paris,resell,,,high,low,7,OVH,03/03/2016 17:57,03/03/2027 17:57,26/09/2026 09:37
 2d0d0dd2-91e3-47c6-9227-86eda2afbfa7,gramophone.paris,available,66.98,66.98,high,low,10,namecheap,,,17/09/2026 02:30
 d3b77716-352b-4d14-956b-ff6b080e21f7,circularly.paris,available,66.98,66.98,medium,low,10,namecheap,,,14/09/2026 06:55
-b05b68dc-a328-4c5e-a726-e115bbe1da1f,peirce.paris,available,66.98,66.98,medium,low,6,namecheap,,,23/09/2026 08:23
+b05b68dc-a328-4c5e-a726-e115bbe1da1f,peirce.paris,available,66.98,66.98,high,low,6,namecheap,,,23/09/2026 08:23
 b9426160-7259-44f2-80f2-962002e6f88e,scores.paris,available,66.98,66.98,high,low,6,namecheap,,,14/09/2026 23:23
 8c4f7177-780c-4109-a755-f3ca7f835b1c,norwood.paris,available,66.98,66.98,high,low,7,namecheap,,,25/09/2026 16:11
 bac98ddb-12cc-4313-85a7-914df5ea9023,bap.paris,available,66.98,66.98,high,low,3,namecheap,,,22/09/2026 03:20
+3f2d7502-7aa5-49cb-a2ef-07358480530b,thinner.paris,available,66.98,66.98,high,low,7,namecheap,,,29/09/2026 06:40
 7a9efaf2-1fac-4db8-b079-65a5837c9f92,gangster.paris,available,66.98,66.98,medium,low,8,namecheap,,,28/09/2026 09:51
 3f49facc-3c6c-4682-a7ec-fe436073876f,mcmahon.paris,available,66.98,66.98,high,low,7,namecheap,,,25/09/2026 21:50
 0eb75a97-1d7c-4a1a-ae1c-9f65a349c22e,messianic.paris,available,65.99,65.99,high,low,9,name.com,,,24/08/2026 21:22
@@ -614,22 +677,24 @@ e4aa52e3-6bfd-4515-97db-9c9807787122,aureole.paris,available,66.98,66.98,high,lo
 12176eaa-d61f-4665-acc4-3c553c8e0a5e,bedlam.paris,available,66.98,66.98,medium,low,6,namecheap,,,22/09/2026 23:22
 5c372c22-8a6d-44d0-a4e5-1e65471e0a35,ingrained.paris,available,65.99,65.99,high,low,9,name.com,,,13/08/2026 22:49
 09886794-1664-41ac-8b32-5cade76d0357,asmara.paris,available,66.98,66.98,high,low,6,namecheap,,,20/09/2026 14:27
+c7686668-190a-4a14-a462-c559bf4ae36e,pizarro.paris,available,22.99,67.99,medium,low,7,godaddy,,,30/09/2026 01:41
 02ac9b3f-fb69-48f2-9f07-47c103b72118,magnetized.paris,available,65.99,65.99,medium,low,10,name.com,,,24/08/2026 13:04
 3dc6b246-7b13-49ae-b9ff-6790c62a11dd,jackets.paris,available,66.98,66.98,medium,low,7,namecheap,,,28/09/2026 18:08
-1135e4c5-2230-4e4b-8328-7d7962d3d3ea,sharpness.paris,available,66.98,66.98,medium,low,9,namecheap,,,24/09/2026 23:08
+1135e4c5-2230-4e4b-8328-7d7962d3d3ea,sharpness.paris,available,66.98,66.98,high,low,9,namecheap,,,24/09/2026 23:08
 e7a3c6ca-73d9-4586-ac65-d93a3ec51dcb,arui.paris,available,66.98,66.98,medium,low,4,namecheap,,,18/09/2026 22:15
 a6f5c7a9-966f-4816-99a4-050cd3383d98,hastily.paris,available,66.98,66.98,medium,low,7,namecheap,,,14/09/2026 23:06
 72476884-bc3a-46d7-bdb7-bae357f6196c,everything.paris,available,51.98,,high,medium,10,namecheap,,,
 5f7b3fb6-f2b9-429f-8690-6a984588c8ed,warwickshire.paris,available,66.98,66.98,medium,low,12,namecheap,,,29/09/2026 03:43
+88136dce-975d-4f17-af71-f62e5c519eec,connects.paris,available,66.98,66.98,high,low,8,namecheap,,,29/09/2026 11:28
 83c5094a-b7e4-4b03-8d4f-fc3fd2ff1216,unflawed.paris,available,65.99,65.99,medium,low,8,name.com,,,18/08/2026 07:21
 170d5463-d70d-48ae-bb1f-c22392c7dca7,copies.paris,available,66.98,66.98,high,low,6,namecheap,,,27/09/2026 09:16
 99e5568e-ba13-42a2-88fd-5ec18d66eebb,trim.paris,available,65.99,65.99,high,low,4,name.com,,,12/08/2026 10:14
-1b029e64-d145-4bad-b20d-c3faece9054e,demography.paris,available,66.98,66.98,medium,low,10,namecheap,,,28/09/2026 18:56
+1b029e64-d145-4bad-b20d-c3faece9054e,demography.paris,available,66.98,66.98,high,low,10,namecheap,,,28/09/2026 18:56
 bb6a4c75-c9d4-4caf-a168-03d7aca108e2,retired.paris,available,66.98,66.98,high,low,7,namecheap,,,27/09/2026 13:17
 ba23fc63-effd-45a8-952b-37f3f85934fe,adapt.paris,available,66.98,66.98,high,low,5,namecheap,,,28/09/2026 11:08
 69f85636-b392-4e86-adc9-a07e590bbd22,roseola.paris,available,66.98,66.98,high,medium,7,namecheap,,,09/09/2026 10:27
 f120aa8e-75ad-40a8-b3ab-ac07e43ef752,louvered.paris,available,65.99,65.99,medium,low,8,name.com,,,24/08/2026 10:04
-d8f5ce3c-d42c-4912-80b1-49cb7982a0ef,mammalian.paris,available,65.99,65.99,medium,low,9,name.com,,,24/08/2026 14:19
+d8f5ce3c-d42c-4912-80b1-49cb7982a0ef,mammalian.paris,available,65.99,65.99,high,low,9,name.com,,,24/08/2026 14:19
 f230b28c-52fc-4455-a967-fefc2f50536d,enticing.paris,available,66.98,66.98,high,low,8,namecheap,,,22/09/2026 01:41
 cb6d7b09-f079-4855-8c44-7cf20c999ee0,additional.paris,available,66.98,66.98,high,low,10,namecheap,,,21/09/2026 17:14
 e7fc11a1-ed38-423e-a315-cf938fae2395,restrict.paris,available,66.98,66.98,medium,low,8,namecheap,,,19/09/2026 17:10
@@ -639,24 +704,26 @@ ccfc40a5-8e2d-4538-930d-642b38ef1afd,sorbed.paris,available,66.98,66.98,medium,l
 b7417a7c-4cab-4926-b18b-47b0f5763ebf,obligation.paris,available,65.99,65.99,high,low,10,name.com,,,24/09/2026 13:40
 aac9c1f3-952b-46be-bccb-bcc48c3ecb6e,rating.paris,available,66.98,66.98,high,low,6,namecheap,,,28/09/2026 19:08
 7734a1f5-94cd-4f8e-b202-f347d0e50c7e,twinkling.paris,available,65.99,65.99,high,low,9,name.com,,,22/08/2026 07:34
-7e340025-c25f-499f-b601-207740bddda9,lisboa.paris,available,51.98,,high,low,6,namecheap,,,
+7e340025-c25f-499f-b601-207740bddda9,lisboa.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 06:47
 a3bb6b9a-4e59-428b-a06f-9627aaf40719,untrained.paris,available,66.98,66.98,medium,low,9,namecheap,,,12/09/2026 21:40
 fcfcf9b0-1f91-442f-b9b7-91b211975ee6,morton.paris,available,66.98,66.98,high,low,6,namecheap,,,25/09/2026 05:58
+d73198b4-443e-4783-ada7-731b3326b29c,juliette.paris,available,66.98,66.98,high,low,8,namecheap,,,29/09/2026 15:24
 0880bcb1-fcb9-4dac-ba13-48f58bcb9238,orders.paris,available,66.98,66.98,high,low,6,namecheap,,,18/09/2026 14:04
 dba04e18-8c21-43f5-9987-c0eaa291ca45,forcible.paris,available,65.99,65.99,medium,low,8,name.com,,,18/08/2026 11:19
 5e68c0d0-0d22-47c3-84c8-eefd2dae3f68,atropos.paris,available,66.98,66.98,medium,low,7,namecheap,,,21/09/2026 01:01
 1ae69639-3ab5-4278-ab3c-c790d0190c55,andes.paris,available,65.99,65.99,high,low,5,name.com,,,19/09/2026 04:04
 38df425a-4348-4078-8b34-f3c0296ae336,whirring.paris,available,66.98,66.98,medium,low,8,namecheap,,,13/09/2026 11:28
 b8925a21-3d25-42e3-86ba-ed0354e6bb58,asbestosis.paris,available,66.98,66.98,medium,low,10,namecheap,,,20/09/2026 12:56
-b694388d-4120-4ddf-adf9-806391133cc9,animalia.paris,available,66.98,66.98,medium,low,8,namecheap,,,19/09/2026 08:37
+b694388d-4120-4ddf-adf9-806391133cc9,animalia.paris,available,66.98,66.98,high,low,8,namecheap,,,19/09/2026 08:37
 5f3f32b9-25d2-44a0-814e-4664584d25d9,napkins.paris,available,66.98,66.98,medium,low,7,namecheap,,,21/09/2026 05:52
 0f4f3729-d8c5-4f42-83d6-664555ce4111,guess.paris,available,66.98,66.98,high,high,5,namecheap,,,28/09/2026 03:25
 a69beeca-7eba-4d91-a19d-737ca17625f4,inviolate.paris,available,65.99,65.99,medium,low,9,name.com,,,22/08/2026 09:06
-7cb51847-2288-4503-9e86-803049d07e6b,set.paris,available,65.99,65.99,high,low,3,name.com,,,22/09/2026 19:35
+7cb51847-2288-4503-9e86-803049d07e6b,set.paris,available,66.98,66.98,high,low,3,namecheap,,,29/09/2026 19:37
 57929640-633f-408e-9f21-dc5c4468a849,whorled.paris,available,65.99,65.99,medium,low,7,name.com,,,12/08/2026 16:18
 b635aad7-555f-41fa-af6f-d0b644ea4ee9,aleph.paris,available,66.98,66.98,high,low,5,namecheap,,,18/09/2026 05:19
 e316f17d-8831-4074-b955-6bbe9df65c54,porkfish.paris,available,66.98,66.98,medium,low,8,namecheap,,,19/09/2026 09:38
 a183c32f-a184-4b86-a021-b0552655cad1,alphabetic.paris,available,66.98,66.98,high,low,10,namecheap,,,22/09/2026 02:10
+b69bc228-0459-41f0-93e2-b553ac6ef594,grenades.paris,available,66.98,66.98,low,low,8,namecheap,,,30/09/2026 00:32
 d6eceea4-b310-47c9-a0c7-145ca70d2c61,banister.paris,available,65.99,65.99,medium,low,8,name.com,,,22/09/2026 00:28
 d3f39502-e904-4dbf-8b96-dabea6936c8b,watered.paris,available,65.99,65.99,medium,low,7,name.com,,,25/08/2026 03:28
 a470bec3-41d8-4eae-a28e-3eb1d1030725,peppery.paris,available,66.98,66.98,high,low,7,namecheap,,,08/09/2026 15:37
@@ -669,9 +736,13 @@ e79e0bd6-0d03-4c80-b651-1d2885aac2ec,openly.paris,available,66.98,66.98,high,low
 e62b744d-aa12-4dcb-8bbe-10e6222eab4f,rembrandt.paris,available,66.98,66.98,high,low,9,namecheap,,,28/09/2026 15:14
 8795584e-421c-43eb-9ccf-e40052a3b726,doolittle.paris,available,66.98,66.98,medium,low,9,namecheap,,,29/09/2026 00:40
 ce0c2575-842b-4376-8c15-9f8594681640,cleansing.paris,available,65.99,65.99,high,low,9,name.com,,,
+c8fcf498-fca9-47b2-a692-934a55b15afb,exon.paris,available,66.98,66.98,medium,low,4,namecheap,,,30/09/2026 01:04
 ce5c1636-6a5f-4601-97c6-904941edb1e7,lisa.paris,available,66.98,66.98,high,low,4,namecheap,,,25/09/2026 12:07
 9b40410f-6bac-472c-a56a-59b5aedf1926,dwight.paris,available,66.98,66.98,medium,low,6,namecheap,,,28/09/2026 07:54
+c3bb00af-d670-4538-8acc-d061cae11b8a,salerno.paris,available,66.98,66.98,high,low,7,namecheap,,,29/09/2026 08:00
+3c67040b-384b-403f-a830-486a0ebf6dc9,ecm.paris,available,66.98,66.98,high,low,3,namecheap,,,29/09/2026 06:42
 f35206ce-34b5-46e4-93e8-54f2e71788d0,mall.paris,available,51.98,,high,low,4,namecheap,,,
+afccf10b-1bb0-42e6-a1c4-f28c44961f47,shipley.paris,available,66.98,66.98,medium,low,7,namecheap,,,29/09/2026 09:53
 c13d3d1c-3ef2-412e-8bd1-5b42e289fc04,unsubtle.paris,available,66.98,66.98,medium,low,8,namecheap,,,12/09/2026 20:46
 d641bc65-86a3-4020-ab35-f65048e83b3d,shipshape.paris,available,66.98,66.98,high,medium,9,namecheap,,,10/09/2026 06:36
 ca674031-827a-4840-b057-32d8b87e88be,liberties.paris,available,66.98,66.98,medium,low,9,namecheap,,,18/09/2026 04:52
@@ -689,15 +760,16 @@ e6ea6cb8-5138-4d33-a9d4-04d33ae4ed95,loaned.paris,available,66.98,66.98,medium,l
 47143f1e-609c-4182-aa07-63667441f484,fiduciary.paris,available,65.99,65.99,high,low,9,name.com,,,18/08/2026 03:39
 17650b06-9fe8-4b6d-bae2-5810719be96f,chargeable.paris,available,65.99,65.99,medium,low,10,name.com,,,12/08/2026 02:27
 25fd6d36-70f3-4a4c-baa2-2df7dfb333df,scraggy.paris,available,65.99,65.99,medium,low,7,name.com,,,22/08/2026 12:02
-0897c13c-e86a-4b0a-a5c8-bfd4836f7c4d,attrition.paris,available,66.98,66.98,medium,low,9,namecheap,,,21/09/2026 02:20
+0897c13c-e86a-4b0a-a5c8-bfd4836f7c4d,attrition.paris,available,66.98,66.98,high,low,9,namecheap,,,21/09/2026 02:20
 994538c8-213e-4d55-9133-f9b6665acda2,homicide.paris,available,66.98,66.98,medium,low,8,namecheap,,,25/09/2026 07:26
-00542c87-6726-41ac-97bb-ca8bf8ca6c6a,utter.paris,available,66.98,66.98,medium,low,5,namecheap,,,28/09/2026 10:04
+00542c87-6726-41ac-97bb-ca8bf8ca6c6a,utter.paris,available,66.98,66.98,high,low,5,namecheap,,,28/09/2026 10:04
+dbb7ec63-ed46-4138-906e-a1485eda3168,aac.paris,available,66.98,66.98,high,low,3,namecheap,,,29/09/2026 15:15
 b4c00141-a4f2-4e4b-b2e0-2d586db0a92e,solomonic.paris,available,66.98,66.98,medium,low,9,namecheap,,,10/09/2026 13:43
-869e0c70-4e96-43d3-bc83-fdd3ead09a27,curtain.paris,available,51.98,,high,low,7,namecheap,,,
+869e0c70-4e96-43d3-bc83-fdd3ead09a27,curtain.paris,available,66.98,66.98,high,low,7,namecheap,,,29/09/2026 13:08
 42946bef-3fd8-437c-97ca-cc723a4003e2,toter.paris,available,66.98,66.98,medium,low,5,namecheap,,,22/09/2026 21:16
 74c51ea0-515b-4c26-9a5b-0ecb43c4defc,marshal.paris,available,66.98,66.98,high,low,7,namecheap,,,28/09/2026 19:50
 f515e312-9893-45b2-b927-e4310be78bda,columbine.paris,available,66.98,66.98,medium,low,9,namecheap,,,19/09/2026 23:13
-c008c4ab-f99e-426d-b70d-78c4d2109353,divinely.paris,available,66.98,66.98,medium,low,8,namecheap,,,14/09/2026 13:27
+c008c4ab-f99e-426d-b70d-78c4d2109353,divinely.paris,available,66.98,66.98,high,low,8,namecheap,,,14/09/2026 13:27
 ee2edd76-af0b-486d-b991-babfd36d53ac,antelope.paris,available,66.98,66.98,high,low,8,namecheap,,,19/09/2026 12:50
 620e48bd-5a1e-451c-837f-f16eed050582,unopen.paris,available,66.98,66.98,medium,low,6,namecheap,,,10/09/2026 07:06
 3362e906-2bb0-48e3-8f49-ba1e9e940048,peaky.paris,available,65.99,65.99,medium,low,5,name.com,,,08/09/2026 11:10
@@ -707,7 +779,8 @@ b99b53c4-86ae-4022-b3e9-f0bf6edc9afb,flock.paris,available,65.99,65.99,high,low,
 41592bbb-83a5-469f-aea4-b17581014a6b,panoptic.paris,available,65.99,65.99,medium,low,8,name.com,,,
 6b98ba02-52ba-473a-8406-8bc4680a0439,instincts.paris,available,66.98,66.98,low,low,9,namecheap,,,28/09/2026 17:50
 dcf16689-4756-4f59-ba1c-434bf4a579bd,paternal.paris,available,65.99,65.99,high,low,8,name.com,,,
-ea122721-eadd-48c1-8615-ac05612874a3,xxiv.paris,available,65.99,65.99,medium,low,4,name.com,,,
+f3ac96ae-16bf-4408-8013-16c873e50720,starr.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 07:58
+ea122721-eadd-48c1-8615-ac05612874a3,xxiv.paris,available,65.99,65.99,high,low,4,name.com,,,
 8eea8755-c79c-4236-8c3d-6752ba3323f6,newborn.paris,available,66.98,66.98,high,low,7,namecheap,,,03/09/2026 16:41
 8aa4eef0-7b98-4284-b0cf-61ea86090d28,aligning.paris,available,65.99,65.99,medium,low,8,name.com,,,
 f2dc1262-1844-479f-adce-d0e24539f58f,armrest.paris,available,66.98,66.98,medium,low,7,namecheap,,,20/09/2026 07:41
@@ -718,39 +791,43 @@ c606a6bf-152d-42e8-a7c5-c70b14749e10,finds.paris,available,66.98,66.98,high,low,
 3c9b252b-faf5-4986-b1a7-6c9d01c8b4ce,campfire.paris,available,66.98,66.98,high,low,8,namecheap,,,24/09/2026 11:54
 ed2ec70e-e96b-49ac-bb84-893867dfe483,semisolid.paris,available,66.98,66.98,medium,low,9,namecheap,,,10/09/2026 03:26
 1257af50-3ff4-4f56-beeb-b11a73047472,ungroomed.paris,available,66.98,66.98,low,low,9,namecheap,,,12/09/2026 11:34
+61c04d14-3d4b-443e-a5ce-209d64de154e,tottenham.paris,available,66.98,66.98,high,low,9,namecheap,,,29/09/2026 22:19
 c2319fa4-a76a-42d1-8eaa-239bf553dd2e,youngster.paris,available,65.99,65.99,high,low,9,name.com,,,25/08/2026 00:01
 4146e96d-5d5f-489a-8088-88b876f16e3e,debauch.paris,available,65.99,65.99,medium,low,7,name.com,,,13/08/2026 02:20
-9d49cf8c-0b65-4674-9208-e53a89f8c970,leukemia.paris,available,66.98,66.98,medium,low,8,namecheap,,,24/09/2026 11:59
+9d49cf8c-0b65-4674-9208-e53a89f8c970,leukemia.paris,available,66.98,66.98,high,low,8,namecheap,,,24/09/2026 11:59
 5eaf7acd-210e-450f-8399-a40a11cb1013,proposition.paris,available,66.98,66.98,high,low,11,namecheap,,,28/09/2026 03:24
 d3b844ef-0557-4f1b-9337-8fe69096de6e,voiceless.paris,available,65.99,65.99,medium,low,9,name.com,,,05/08/2026 23:23
 70b75ac3-ac35-4a02-84e5-a055d1c80a70,benzyl.paris,available,65.99,65.99,high,low,6,name.com,,,23/09/2026 09:03
+31020539-3812-4426-a234-264a54cc705d,roadside.paris,available,66.98,66.98,high,low,8,namecheap,,,29/09/2026 13:53
 2991a26f-b3d1-495d-9b9a-498253fa4369,pretender.paris,available,66.98,66.98,high,low,9,namecheap,,,08/09/2026 19:12
 b5fac4d7-5cb2-441e-ae88-bd716101550c,compulsory.paris,available,66.98,66.98,high,low,10,namecheap,,,23/09/2026 18:17
 cb398045-bc2a-410e-97a7-0940da5a00dc,folded.paris,available,66.98,66.98,medium,low,6,namecheap,,,28/09/2026 16:55
 c966f458-28d0-473e-aa18-2c40b5688d8d,somehow.paris,available,66.98,66.98,medium,low,7,namecheap,,,28/09/2026 15:41
 56e6f7e5-f579-4b66-8614-0eae63680774,spouse.paris,available,66.98,66.98,high,low,6,namecheap,,,23/09/2026 11:39
 398ebb09-e2e7-405e-a2ed-42644a7012d2,successor.paris,available,51.98,,high,low,9,namecheap,,,
-9a5864c1-db42-4126-8507-4ff611c62a27,glitter.paris,available,51.98,,high,low,7,namecheap,,,
-6b057a2e-0e4a-42fd-ad14-9c6720df3934,washing.paris,available,51.98,,high,low,7,namecheap,,,
-8194e760-d38f-4688-a6d1-3ae378e308e6,simplicity.paris,available,51.98,,high,low,10,namecheap,,,
+9a5864c1-db42-4126-8507-4ff611c62a27,glitter.paris,available,66.98,66.98,high,low,7,namecheap,,,29/09/2026 11:42
+6b057a2e-0e4a-42fd-ad14-9c6720df3934,washing.paris,available,22.99,67.99,high,low,7,godaddy,,,30/09/2026 02:11
+8194e760-d38f-4688-a6d1-3ae378e308e6,simplicity.paris,available,66.98,66.98,high,low,10,namecheap,,,29/09/2026 08:19
 24265b29-d9c9-40d5-bb3e-0a58722dc928,scaled.paris,available,66.98,66.98,high,low,6,namecheap,,,09/09/2026 22:20
 2ef5d8f0-568b-4b4c-a1fb-2e361781602b,algin.paris,available,66.98,66.98,medium,low,5,namecheap,,,18/09/2026 07:04
 eb85d6b4-fbae-4903-bbec-8a780a26c475,threat.paris,available,51.98,,high,low,6,namecheap,,,
 15179c6d-9653-4c3a-9e9a-40f5e4433ba5,apathy.paris,available,66.98,66.98,medium,low,6,namecheap,,,19/09/2026 16:17
 771700d4-7366-4c79-ac83-06713f150a8c,lapp.paris,available,66.98,66.98,high,low,4,namecheap,,,19/09/2026 15:44
+6b978eea-27b5-41af-bb77-663ed87f4e29,deficiency.paris,available,66.98,66.98,medium,low,10,namecheap,,,29/09/2026 18:36
 776172db-de7e-4f79-9f9f-be2755e5b39e,forbes.paris,available,66.98,66.98,high,low,6,namecheap,,,25/09/2026 14:28
 60bc4f6c-cc4b-4fd7-a55a-beabadef9cd0,alongside.paris,available,66.98,66.98,high,low,9,namecheap,,,13/09/2026 19:12
 05a08f10-06d0-4e17-8090-d8b3b1477460,dictionary.paris,available,66.98,66.98,high,low,10,namecheap,,,24/09/2026 22:14
 e8b29240-ceac-4d2e-854c-c02d33755863,contained.paris,available,66.98,66.98,high,low,9,namecheap,,,23/09/2026 21:42
 e42ef186-0308-414c-a351-2463cb9972df,tumescent.paris,available,65.99,65.99,medium,low,9,name.com,,,22/08/2026 08:52
 d2cc3e71-205f-473c-91d3-cc4ebd89999d,poe.paris,available,66.98,66.98,high,low,3,namecheap,,,28/09/2026 19:01
-2b0aec0c-482d-4034-90d6-156fe2095b82,richardson.paris,available,66.98,66.98,medium,low,10,namecheap,,,28/09/2026 14:25
+2b0aec0c-482d-4034-90d6-156fe2095b82,richardson.paris,available,66.98,66.98,high,low,10,namecheap,,,28/09/2026 14:25
 d8c99fd8-6c69-451c-953d-3b28704358d7,backbench.paris,available,66.98,66.98,medium,low,9,namecheap,,,21/09/2026 15:00
 fa53b30a-fe02-467c-8f4a-4e0d0a1209a7,uttered.paris,available,65.99,65.99,medium,low,7,name.com,,,17/08/2026 18:44
 d81e742b-e77a-4bb9-bf71-ffedadd6cdd4,yogurt.paris,available,66.98,66.98,high,low,6,namecheap,,,28/09/2026 02:43
+ba0a7f31-5921-4533-a3bd-1dc2e5cf7805,sharper.paris,available,66.98,66.98,high,low,7,namecheap,,,30/09/2026 00:58
 7037ffa3-9101-4cf3-8569-196f0ba37914,artistry.paris,available,66.98,66.98,high,medium,8,namecheap,,,28/09/2026 08:07
 a3805dd0-616f-40d5-8db7-a5fa9ef495a9,immunity.paris,available,66.98,66.98,high,low,8,namecheap,,,28/09/2026 14:20
-bc6b00bf-b844-4893-beb4-81d0761720ab,entrant.paris,available,65.99,65.99,medium,low,7,name.com,,,18/08/2026 07:36
+bc6b00bf-b844-4893-beb4-81d0761720ab,entrant.paris,available,65.99,65.99,high,low,7,name.com,,,18/08/2026 07:36
 7787d808-d06e-4cb4-ad6a-da29a998d2c9,risible.paris,available,65.99,65.99,medium,low,7,name.com,,,12/08/2026 19:02
 0028e0bf-788f-42a0-9067-1bc42ae13f51,wrists.paris,available,66.98,66.98,medium,low,6,namecheap,,,20/09/2026 10:52
 dc315880-bdf4-45e3-b024-972c459b0a72,fizzy.paris,available,65.99,65.99,high,low,5,name.com,,,18/08/2026 06:03
@@ -760,10 +837,12 @@ e278ffdd-6750-4456-91f6-3521ff64dfa9,preston.paris,available,66.98,66.98,high,lo
 12b16dd5-db38-4168-bace-fa922cb70e94,crescendo.paris,available,65.99,65.99,high,low,9,name.com,,,13/08/2026 06:09
 d54afe56-cf3f-4604-8dd0-7fc33e5bda92,boldface.paris,available,65.99,65.99,high,low,8,name.com,,,10/08/2026 17:43
 48660b1a-d4f2-476c-b239-6baf1f40c96a,physic.paris,available,66.98,66.98,medium,low,6,namecheap,,,28/09/2026 07:44
-5be94dbf-69a1-4929-be68-b35b145c9dee,coffin.paris,available,51.98,,medium,low,6,namecheap,,,
-760a06d6-0dc0-42c0-8dbd-d6f2750bdeaf,agonizing.paris,available,65.99,65.99,medium,low,9,name.com,,,
+216bef44-abc4-46b8-a0df-0a5fcdd3e932,listens.paris,available,66.98,66.98,medium,low,7,namecheap,,,29/09/2026 11:31
+5be94dbf-69a1-4929-be68-b35b145c9dee,coffin.paris,available,66.98,66.98,medium,low,6,namecheap,,,29/09/2026 07:35
+760a06d6-0dc0-42c0-8dbd-d6f2750bdeaf,agonizing.paris,available,65.99,65.99,high,low,9,name.com,,,
 eb141a38-f0fb-4f21-8e45-1b0cc7e73a6f,palpable.paris,available,66.98,66.98,high,low,8,namecheap,,,05/09/2026 00:07
 29fdb7e9-5bc3-4a42-b93e-03dafa141276,elongate.paris,available,65.99,65.99,high,low,8,name.com,,,16/08/2026 05:24
+7ca1bd50-3b3e-43f1-a3fc-ead20f463450,juarez.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 18:22
 0133ffb7-951b-4c8c-9c72-8b0669509bad,asklepios.paris,available,66.98,66.98,medium,low,9,namecheap,,,17/09/2026 13:21
 6eaa524e-0765-4946-97a5-7ea8d3e17b8c,stealthy.paris,available,65.99,65.99,medium,low,8,name.com,,,18/08/2026 19:00
 fb808641-6a82-490e-a5d6-cdc0dbb798c0,bicuspid.paris,available,65.99,65.99,high,low,8,name.com,,,09/08/2026 19:44
@@ -774,6 +853,7 @@ b0703732-9ef1-46ba-9976-34a52c7aca27,petroleum.paris,available,65.99,65.99,high,
 a5d8a883-0e46-48c0-9305-c07de406b34e,cresson.paris,available,65.99,65.99,medium,low,7,name.com,,,13/08/2026 06:16
 5b508de2-a37f-41b6-9ecb-61f31e54a291,sappy.paris,available,65.99,65.99,medium,low,5,name.com,,,12/08/2026 14:56
 16a9570e-2dda-45d5-8ad1-70b4f4c16976,pentium.paris,available,51.98,,high,low,7,namecheap,,,
+e9e93a68-e1ad-4b09-92a3-c512cf713c69,vos.paris,available,66.98,66.98,medium,low,3,namecheap,,,29/09/2026 17:24
 3b3ac484-8c84-4966-af4a-473302b29e72,skylark.paris,available,66.98,66.98,high,low,7,namecheap,,,18/09/2026 02:17
 8a3cc3ab-b5ed-4344-be31-75fc04c008f8,bia.paris,available,66.98,66.98,medium,low,3,namecheap,,,28/09/2026 21:49
 838adbfd-e57e-4496-b4db-82b188095dd5,waxy.paris,available,65.99,65.99,medium,low,4,name.com,,,09/08/2026 14:13
@@ -785,14 +865,16 @@ b5d3e7cd-8d3e-4143-a954-5e42490b7c38,und.paris,available,66.98,66.98,high,low,3,
 e7698487-d5c7-498b-a629-0a5eb3a27479,milled.paris,available,65.99,65.99,medium,low,6,name.com,,,24/08/2026 23:08
 d1915041-9228-4411-b52e-2f26d4780acf,tbd.paris,available,51.98,,high,low,3,namecheap,,,
 b1c5a509-e2c6-44ed-a4b9-eca2ac0a219e,passively.paris,available,66.98,66.98,medium,low,9,namecheap,,,15/09/2026 19:09
+c97a4dee-eff3-47cb-a457-1b3c02dd376d,venom.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 07:31
 bd734cd2-ff1d-4f02-bddf-395fcfda351c,gainesville.paris,available,66.98,66.98,high,low,11,namecheap,,,27/09/2026 07:47
+4e455d83-8fa4-4d49-81f0-4b1318978a77,chartres.paris,available,66.98,66.98,high,low,8,namecheap,,,29/09/2026 11:53
 bbaf349c-152f-4a95-a647-83a64b85d67a,tom.paris,available,66.98,66.98,high,medium,3,namecheap,,,28/09/2026 20:41
 41d27d5c-2fa4-43b3-be2e-fd16cfd2fc57,viennese.paris,available,66.98,66.98,high,low,8,namecheap,,,13/09/2026 05:30
 759d839a-10e5-45c2-a794-73a62d8f79ea,cambridge.paris,available,66.98,66.98,high,low,9,namecheap,,,24/09/2026 11:51
 2a9a4690-3be3-4038-9f67-1dfe7585974b,allah.paris,available,66.98,66.98,high,low,5,namecheap,,,18/09/2026 09:44
 86643f30-83f7-474b-b440-491661c18dc8,bauer.paris,available,66.98,66.98,high,low,5,namecheap,,,25/09/2026 13:07
-a677e7e5-5f95-4526-85b1-ffee9ac41add,platter.paris,available,51.98,,high,low,7,namecheap,,,
-315cbc68-c59e-47cf-8c54-f4d4185b9c84,oversight.paris,available,51.98,,high,low,9,namecheap,,,
+a677e7e5-5f95-4526-85b1-ffee9ac41add,platter.paris,available,66.98,66.98,high,low,7,namecheap,,,29/09/2026 15:14
+315cbc68-c59e-47cf-8c54-f4d4185b9c84,oversight.paris,available,66.98,66.98,high,low,9,namecheap,,,29/09/2026 23:43
 af5039ef-479d-4b45-87d4-45fb17f8a07a,commercially.paris,available,51.98,,high,low,12,namecheap,,,
 acfb6669-8591-4c22-af48-99017e113897,washed.paris,available,66.98,66.98,high,low,6,namecheap,,,13/09/2026 08:31
 648eaf0e-d1c4-4e9a-9ca5-f6d3eba6143a,catered.paris,available,65.99,65.99,medium,low,7,name.com,,,20/09/2026 17:04
@@ -814,18 +896,20 @@ b4a29869-e121-4756-9e8f-e05885c7e1c4,suffered.paris,available,66.98,66.98,low,lo
 c6d8631c-abd4-4454-ab49-5b761a63edc1,beveridge.paris,available,66.98,66.98,medium,low,9,namecheap,,,23/09/2026 12:04
 0f7c3fe6-da29-46cc-8985-04ec26ce130e,laureate.paris,available,65.99,65.99,high,low,8,name.com,,,22/08/2026 20:57
 08b466df-e209-41b2-8e46-7b468302307f,dominant.paris,available,65.99,65.99,high,low,8,name.com,,,14/08/2026 15:41
+4636e997-c6d9-4af5-ba1f-c5ef538e7d36,karel.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 09:01
 8409ae5e-70de-469e-8132-db82f4d7c932,businessmen.paris,available,66.98,66.98,high,low,11,namecheap,,,28/09/2026 08:52
-0e65942a-a3ba-4c8b-9792-1fe8d9c34c16,centimetre.paris,available,66.98,66.98,medium,low,10,namecheap,,,24/09/2026 13:35
+0e65942a-a3ba-4c8b-9792-1fe8d9c34c16,centimetre.paris,available,66.98,66.98,high,low,10,namecheap,,,24/09/2026 13:35
 b34b66ac-42dd-4fc6-83fc-f770a26e7c82,browne.paris,available,66.98,66.98,high,low,6,namecheap,,,20/09/2026 10:27
-902d285a-4dcc-43b5-bdce-178d3583071b,karlsruhe.paris,available,66.98,66.98,medium,low,9,namecheap,,,28/09/2026 12:19
+902d285a-4dcc-43b5-bdce-178d3583071b,karlsruhe.paris,available,66.98,66.98,high,low,9,namecheap,,,28/09/2026 12:19
 ea7e5fa6-5a9a-4fbd-850e-e2a180356864,immerse.paris,available,66.98,66.98,high,low,7,namecheap,,,10/09/2026 19:49
 10809945-4a06-49a0-a286-b3b0bdc18f4c,bibos.paris,available,66.98,66.98,low,low,5,namecheap,,,23/09/2026 13:02
 3050621f-3b35-4943-af8a-4253c5696a27,coastward.paris,available,66.98,66.98,medium,low,9,namecheap,,,14/09/2026 07:23
 0e411ca8-eb4f-4726-93fd-19a0ba6a325e,immovable.paris,available,65.99,65.99,medium,low,9,name.com,,,21/08/2026 21:17
 86c7c8d6-2b18-4956-a35c-fe85dee28df5,dermal.paris,available,65.99,65.99,high,low,6,name.com,,,13/08/2026 13:00
-b3c2fb1b-859c-4b10-a928-e775c4a94ae4,sympathy.paris,available,51.98,,high,low,8,namecheap,,,
+b3c2fb1b-859c-4b10-a928-e775c4a94ae4,sympathy.paris,available,66.98,66.98,high,low,8,namecheap,,,29/09/2026 19:11
 cca03f8f-b7e2-4576-bf0c-533343dcce38,saccharine.paris,available,65.99,65.99,medium,low,10,name.com,,,12/08/2026 12:48
 4a5c7350-eff3-4522-9643-c70a72098f7d,stannic.paris,available,66.98,66.98,low,low,7,namecheap,,,10/09/2026 18:41
+4a2614b8-7aab-4870-adf1-e622696eea22,enforce.paris,available,66.98,66.98,high,low,7,namecheap,,,29/09/2026 08:23
 f79a2c8a-587c-4c95-a85b-b566b0b14d31,bags.paris,premium,368.39,,high,low,4,name.com,,,
 4f5c4ee8-6d55-4165-8a28-aec0665f3f28,timbered.paris,available,66.98,66.98,medium,low,8,namecheap,,,11/09/2026 15:59
 22954aa9-284d-42d7-939d-6bac72f92e55,matthews.paris,available,66.98,66.98,high,low,8,namecheap,,,25/09/2026 19:36
@@ -834,10 +918,11 @@ f79a2c8a-587c-4c95-a85b-b566b0b14d31,bags.paris,premium,368.39,,high,low,4,name.
 760e8afd-a3d2-491d-9810-5e17e4b76a2f,rejected.paris,available,66.98,66.98,medium,low,8,namecheap,,,25/09/2026 11:50
 4f87d602-29d2-48a8-bf8a-57747bbb4cc5,gumptious.paris,available,65.99,65.99,medium,low,9,name.com,,,20/08/2026 20:57
 beaab147-425b-462d-ba4d-b4177f5005c6,temporarily.paris,available,51.98,,medium,low,11,namecheap,,,
-e7e1331e-6691-4a2b-b102-a00b44ac3382,frilly.paris,available,65.99,65.99,medium,low,6,name.com,,,18/08/2026 15:51
+e7e1331e-6691-4a2b-b102-a00b44ac3382,frilly.paris,available,65.99,65.99,high,low,6,name.com,,,18/08/2026 15:51
 38de3ab3-cf3b-4ced-930c-8a16a702cf86,nomadic.paris,available,65.99,65.99,high,low,7,name.com,,,25/08/2026 02:19
 946ab81b-fcd8-45ef-839b-9cc5b0fbc0be,convert.paris,available,66.98,66.98,high,low,7,namecheap,,,24/09/2026 17:55
 3af9777e-be88-4542-9054-6cbb3ff5ec7f,arcminute.paris,available,66.98,66.98,medium,low,9,namecheap,,,20/09/2026 02:40
+d7b5f166-3fd4-4069-a36a-2201a97f97c0,neilson.paris,available,66.98,66.98,medium,low,7,namecheap,,,29/09/2026 22:20
 659aa4d5-c31d-47d9-91c9-27e04b9f0ae7,rotatable.paris,available,66.98,66.98,high,medium,9,namecheap,,,09/09/2026 18:46
 a3e88540-d391-4193-80aa-1537eb5701ca,patriotism.paris,available,51.98,,high,low,10,namecheap,,,
 723c5eae-8e4c-4208-a62b-291baf521fac,ideas.paris,premium,363.2,,high,low,5,name.com,,,
@@ -858,10 +943,10 @@ e8a4b11c-69c4-4ccf-aa6d-4f19e4ce636a,mills.paris,available,51.98,,high,low,5,nam
 7d9b75a7-e542-4890-be31-14b66be34d80,moldovan.paris,available,65.99,65.99,high,low,8,name.com,,,25/08/2026 03:50
 f441492b-76ab-4da7-b017-5048d2530e25,protector.paris,available,66.98,66.98,high,low,9,namecheap,,,28/09/2026 13:52
 52418d11-a678-4661-8f4e-5166e67299d1,regiment.paris,available,66.98,66.98,medium,low,8,namecheap,,,28/09/2026 20:17
-9a0f688f-8eb8-4be8-a879-fa50a529e653,hero.paris,available,51.98,,high,medium,4,namecheap,,,
 541a23e2-7f0c-4e04-9446-9233d6d2133e,theropod.paris,available,66.98,66.98,medium,low,8,namecheap,,,23/09/2026 19:39
-cce5963f-32ec-4d2b-b964-facb5511b905,caesium.paris,available,66.98,66.98,medium,low,7,namecheap,,,20/09/2026 23:16
+cce5963f-32ec-4d2b-b964-facb5511b905,caesium.paris,available,66.98,66.98,high,low,7,namecheap,,,20/09/2026 23:16
 b8fc3202-6455-4b35-8685-740678639e6f,groggy.paris,available,65.99,65.99,medium,low,6,name.com,,,18/08/2026 09:53
+d2536233-4131-4398-a329-772bd44ddca6,painters.paris,available,66.98,66.98,medium,low,8,namecheap,,,29/09/2026 11:24
 11e8706b-a238-43d9-88cc-fa48ac339912,ponds.paris,available,66.98,66.98,medium,low,5,namecheap,,,18/09/2026 22:37
 54256cb9-a46b-4f42-bd70-78751854ed1d,aquatics.paris,available,66.98,66.98,high,low,8,namecheap,,,19/09/2026 23:08
 a17a75ec-8387-4a21-a6c3-25af9cf15569,baroque.paris,available,65.99,65.99,high,low,7,name.com,,,08/08/2026 20:26
@@ -870,8 +955,10 @@ a17a75ec-8387-4a21-a6c3-25af9cf15569,baroque.paris,available,65.99,65.99,high,lo
 4c1145a2-fffc-404c-bdaf-a3114a0f5a56,animalism.paris,available,66.98,66.98,medium,low,9,namecheap,,,19/09/2026 08:55
 9574cf39-8f54-4a23-9f8e-d1407cf08fd7,soused.paris,available,65.99,65.99,low,low,6,name.com,,,09/08/2026 16:07
 086473f6-ef9a-4758-80bc-b4cc6be57914,inhibit.paris,available,51.98,,high,low,7,namecheap,,,
+27574a11-9aa4-42bb-840b-44459a9363b6,hauling.paris,available,22.99,67.99,high,low,7,godaddy,,,30/09/2026 01:50
 7c7f5ce5-2d5b-44d9-9ab7-03fe53b1c04d,normally.paris,available,66.98,66.98,medium,low,8,namecheap,,,28/09/2026 14:10
-1d68b4c1-4ddf-4cdd-8688-8e073f22513c,jimmy.paris,available,51.98,,high,low,5,namecheap,,,
+1d68b4c1-4ddf-4cdd-8688-8e073f22513c,jimmy.paris,available,66.98,66.98,high,low,5,namecheap,,,30/09/2026 00:48
+4da02554-d1ed-4da4-bc26-96256c3815bb,elam.paris,available,66.98,66.98,high,low,4,namecheap,,,30/09/2026 01:29
 00b52c3b-41ad-44f4-a508-97f1f7c98fde,dentate.paris,available,65.99,65.99,medium,low,7,name.com,,,14/08/2026 01:57
 e6738b9c-b2a3-4a90-93de-4f0463fc1143,perfectly.paris,available,66.98,66.98,high,low,9,namecheap,,,28/09/2026 11:37
 de391094-9971-4621-90be-51d3f2c48c1f,nearby.paris,available,66.98,66.98,high,low,6,namecheap,,,03/09/2026 14:32
@@ -884,11 +971,12 @@ ec2af038-ef2a-43a9-9d6f-a0e30a624b7a,contain.paris,available,66.98,66.98,high,lo
 0a824b2b-5484-4289-9d21-03ea23810843,little.paris,available,66.98,66.98,high,low,6,namecheap,,,24/09/2026 17:48
 f926a5a5-4528-41f5-abe1-cefcd091ad31,topology.paris,available,66.98,66.98,high,low,8,namecheap,,,19/09/2026 01:59
 84dd4564-6bac-4f77-9a9a-2d9c9f545a39,agenda.paris,available,66.98,66.98,high,low,6,namecheap,,,17/09/2026 17:02
-001dced9-4ee2-48b6-a63b-8d971e64d886,pangolin.paris,available,66.98,66.98,medium,low,8,namecheap,,,19/09/2026 12:39
+001dced9-4ee2-48b6-a63b-8d971e64d886,pangolin.paris,available,66.98,66.98,high,low,8,namecheap,,,19/09/2026 12:39
+2c088b9a-3646-42aa-b703-3175875bd122,ware.paris,available,66.98,66.98,high,low,4,namecheap,,,29/09/2026 19:40
 1f7d99ef-8ceb-4370-a226-150432545b52,neoclassic.paris,available,66.98,66.98,medium,low,10,namecheap,,,03/09/2026 15:21
 0a3e5791-2059-4aee-938b-ca059dfebb96,fatigue.paris,available,66.98,66.98,high,low,7,namecheap,,,25/09/2026 11:36
 7320292e-89fd-4433-b4a2-23885d8bc73d,miniskirt.paris,available,65.99,65.99,high,low,9,name.com,,,24/08/2026 23:47
-624e6d0f-7e25-4a98-a0d3-e79f18c1916f,eggs.paris,available,51.98,,high,low,4,namecheap,,,
+624e6d0f-7e25-4a98-a0d3-e79f18c1916f,eggs.paris,available,66.98,66.98,high,low,4,namecheap,,,29/09/2026 17:47
 668045e2-6e28-4d0e-8087-b0a1486a2e5e,volt.paris,available,66.98,66.98,high,low,4,namecheap,,,13/09/2026 00:34
 65c1dba4-ac8d-4075-aa4d-b3ebfd9f64b3,shower.paris,available,66.98,66.98,high,low,6,namecheap,,,28/09/2026 06:02
 2817725b-8ab0-46b6-aa2e-e4368aa31141,flickering.paris,available,65.99,65.99,high,low,10,name.com,,,
@@ -897,105 +985,17 @@ f926a5a5-4528-41f5-abe1-cefcd091ad31,topology.paris,available,66.98,66.98,high,l
 be99abec-1ce9-417b-891a-a6bc70261967,unfailing.paris,available,65.99,65.99,high,low,9,name.com,,,18/08/2026 10:39
 8fecedf1-7b7e-4fe2-8d0a-6f8e27d78f3c,narration.paris,available,65.99,65.99,high,low,9,name.com,,,03/09/2026 13:18
 eb7614c9-ba35-4361-b732-70a74b58be24,anpu.paris,available,66.98,66.98,medium,low,4,namecheap,,,19/09/2026 11:59
-3c809bef-466b-4bcb-b65a-397f9528521d,fate.paris,available,51.98,,high,low,4,namecheap,,,
+3c809bef-466b-4bcb-b65a-397f9528521d,fate.paris,available,66.98,66.98,high,low,4,namecheap,,,29/09/2026 09:19
 dfccd8aa-4587-4c45-bf81-a0d65eefabe8,collect.paris,available,65.99,65.99,high,low,7,name.com,,,12/08/2026 15:03
+5d83b0c8-bfbe-4565-833c-e2ae51b75e27,fdr.paris,available,66.98,66.98,high,low,3,namecheap,,,29/09/2026 18:52
 d21f538e-aff8-4638-8809-61f0a46f4f6f,lateral.paris,available,65.99,65.99,high,low,7,name.com,,,22/08/2026 20:34
-c7401080-4a1a-4172-99df-d294781e9cf5,leslie.paris,available,66.98,66.98,medium,low,6,namecheap,,,25/09/2026 14:15
+c7401080-4a1a-4172-99df-d294781e9cf5,leslie.paris,available,66.98,66.98,high,low,6,namecheap,,,25/09/2026 14:15
 564aa5d8-0697-4a54-8da0-720b711b4b24,grainy.paris,available,65.99,65.99,medium,low,6,name.com,,,12/08/2026 14:00
 d9eabb09-57b1-4531-8d7c-2b2253a0df2c,waxed.paris,available,66.98,66.98,high,low,5,namecheap,,,13/09/2026 08:40
+9ed3e1b2-c746-4f7d-adc0-54442d55ab6b,kato.paris,available,66.98,66.98,high,low,4,namecheap,,,29/09/2026 09:49
 9b97c0a7-63ae-43a2-bfa5-f99c0451054a,howso.paris,available,51.98,,medium,low,6,namecheap,,,
+3a80466a-8c4f-4c1c-a21f-19d27192364b,constitute.paris,available,66.98,66.98,high,low,10,namecheap,,,29/09/2026 13:09
 cb19aa49-7f8c-4992-ba21-552597798e5d,moonfish.paris,available,66.98,66.98,medium,low,8,namecheap,,,20/09/2026 21:37
 0884f724-40fe-4e4d-9246-d1e4065411a7,variegated.paris,available,66.98,66.98,medium,low,10,namecheap,,,13/09/2026 01:18
 a2f9c5f8-0f17-484d-ab9a-2fb75ff2d331,fran.paris,available,51.98,,high,low,4,namecheap,,,
 24f09e3d-030a-430f-be01-e2182d50b4be,donkeys.paris,available,66.98,66.98,medium,low,7,namecheap,,,20/09/2026 00:20
-21b84809-e657-4fd0-bb38-788afbc990db,bine.paris,available,66.98,66.98,medium,low,4,namecheap,,,23/09/2026 17:13
-61a0c684-0022-45e7-8cf8-9ab40cc1a393,angie.paris,available,66.98,66.98,medium,low,5,namecheap,,,28/09/2026 16:18
-168a6300-6fd0-4965-b051-c7f02a9d614a,understanding.paris,available,66.98,66.98,high,low,13,namecheap,,,25/09/2026 11:47
-487842d4-effd-4688-a046-9b41f4afd4cc,musing.paris,available,65.99,65.99,high,low,6,name.com,,,11/08/2026 05:58
-2bdae495-6421-4155-bbc8-de64b41841bd,chimney.paris,available,51.98,,high,low,7,namecheap,,,
-0341eeb3-60aa-4995-8a7b-398e0c4a4f55,brutish.paris,available,65.99,65.99,low,low,7,name.com,,,09/08/2026 17:59
-7d895e9b-a97c-4aae-b4df-6d228487fd4d,abortive.paris,available,65.99,65.99,medium,low,8,name.com,,,
-8b8d881a-e69b-4e65-a445-18b6207dc9a9,transmit.paris,available,66.98,66.98,high,low,8,namecheap,,,29/09/2026 04:29
-d8532c43-3951-4e7b-a28f-405df5794833,unwearable.paris,available,66.98,66.98,medium,low,10,namecheap,,,12/09/2026 22:31
-faf2250c-e606-419b-9a5a-fd6bbd442844,hostesses.paris,available,66.98,66.98,medium,low,9,namecheap,,,20/09/2026 07:50
-59eb9b46-eb11-47cb-a1f5-2c50c65e6edf,ilama.paris,available,66.98,66.98,medium,low,5,namecheap,,,19/09/2026 10:33
-438a2645-caba-4e1a-8598-fcf5c06bf242,shabby.paris,available,65.99,65.99,medium,low,6,name.com,,,25/08/2026 06:58
-70d37132-292d-4788-bb1b-ea9435b42714,worthful.paris,available,66.98,66.98,medium,low,8,namecheap,,,13/09/2026 13:26
-e2ef955e-3e42-4c14-b9d2-193afe7ef470,abundant.paris,available,66.98,66.98,high,low,8,namecheap,,,21/09/2026 15:18
-aaa928a7-ccb6-413a-9b25-4bdfc8922d7a,bromide.paris,available,65.99,65.99,medium,low,7,name.com,,,12/08/2026 19:15
-7fffb38a-4aaf-4b72-bc68-11a463e66dc0,ehrlich.paris,available,66.98,66.98,medium,low,7,namecheap,,,29/09/2026 00:46
-8424218e-925a-417e-9288-d3fde12f5e04,postdoc.paris,available,65.99,65.99,high,low,7,name.com,,,09/09/2026 00:19
-8b6fd1af-f78e-4917-b526-20f4089810c2,fibrous.paris,available,65.99,65.99,medium,low,7,name.com,,,18/08/2026 03:22
-8751b205-443d-461c-9035-cf9319fa2b98,investigated.paris,available,66.98,66.98,medium,low,12,namecheap,,,29/09/2026 00:03
-62bd5541-b591-40f4-ad09-3b1f8304fdc3,climb.paris,resell,,,high,low,5,GoDaddy.com LLC,06/04/2026 09:56,06/04/2027 09:56,26/09/2026 04:59
-96f52802-63ab-4048-adb1-9f78cf5b0119,wuhan.paris,available,66.98,66.98,high,low,5,namecheap,,,29/09/2026 02:39
-036e7500-27be-445a-bf5e-1d64087b7516,phelps.paris,available,66.98,66.98,high,low,6,namecheap,,,25/09/2026 18:39
-8f07317a-83c4-4ca7-88e9-02fbb149f77b,clannish.paris,available,65.99,65.99,medium,low,8,name.com,,,12/08/2026 09:35
-5b44abc9-bb84-4f02-bd69-872c89a3f25b,toupeed.paris,available,66.98,66.98,medium,low,7,namecheap,,,11/09/2026 18:18
-20e95332-ab57-4aa5-bd5d-084f0082b980,brittany.paris,available,66.98,66.98,high,low,8,namecheap,,,27/09/2026 03:23
-04b44154-24f1-4ba6-a767-d11f07ee8ed2,bitty.paris,available,65.99,65.99,high,low,5,name.com,,,10/08/2026 07:51
-a4317fdb-e0ce-45ec-9d2f-4cb36c704d59,juvenile.paris,available,65.99,65.99,high,low,8,name.com,,,22/08/2026 14:58
-12872eee-8fb1-46e5-baac-99657125a9f5,kelsey.paris,available,66.98,66.98,medium,low,6,namecheap,,,28/09/2026 18:22
-50376de1-c7f6-4560-852c-715a0bbccc94,fluently.paris,available,66.98,66.98,high,low,8,namecheap,,,14/09/2026 19:08
-076272b1-fa77-4cf5-aab4-61a6c728cb68,anatomist.paris,available,66.98,66.98,medium,low,9,namecheap,,,19/09/2026 03:32
-8c7759e2-0ea9-4f98-a54a-6cfaa64a32ec,hickman.paris,available,66.98,66.98,high,low,7,namecheap,,,28/09/2026 16:11
-da0a4549-a0f9-464f-98df-86269083820c,adds.paris,available,66.98,66.98,medium,low,4,namecheap,,,18/09/2026 14:32
-83fc9109-c188-483e-9e03-bf9d3e4cc924,silas.paris,available,66.98,66.98,high,low,5,namecheap,,,27/09/2026 19:41
-2f82fb10-ec30-4044-932d-797eaa8c6b2c,adamant.paris,available,65.99,65.99,high,low,7,name.com,,,
-81151f68-9715-4d62-a6bb-aa4941084eae,chewable.paris,available,65.99,65.99,medium,low,8,name.com,,,12/08/2026 04:28
-45c288f9-0c94-4877-8c1f-f0fd82b6730d,equitable.paris,available,65.99,65.99,high,low,9,name.com,,,17/08/2026 11:54
-066669c4-d490-4759-91d5-7191deaab044,intervention.paris,available,66.98,66.98,medium,low,12,namecheap,,,29/09/2026 04:42
-12bdc656-d1d2-4236-aca1-9c44fa526c1f,foolproof.paris,available,65.99,65.99,high,low,9,name.com,,,18/08/2026 10:37
-75142bca-34e5-4569-9c6a-23c8428d32cb,epstein.paris,available,66.98,66.98,high,low,7,namecheap,,,27/09/2026 03:50
-7ea21387-6855-40e4-ac96-148d6ce895d8,drumhead.paris,available,65.99,65.99,medium,low,8,name.com,,,14/08/2026 20:15
-a1248bf0-a69b-49aa-b67a-73a20ed09b06,grimly.paris,available,66.98,66.98,medium,low,6,namecheap,,,14/09/2026 22:25
-5b09070b-e981-4cf0-8f00-7746a9a68959,taxable.paris,available,66.98,66.98,medium,low,7,namecheap,,,03/09/2026 19:07
-ade43167-d77e-4bbd-89e4-2e2999adf292,monogamous.paris,available,65.99,65.99,high,low,10,name.com,,,25/08/2026 05:11
-727fe94f-e37e-45ee-9198-715bccde64f9,mown.paris,available,65.99,65.99,medium,low,4,name.com,,,25/08/2026 09:14
-dbf1e2d0-094a-4e5f-8cc7-d9b6b8ee8cfd,saudi.paris,available,66.98,66.98,high,low,5,namecheap,,,09/09/2026 21:58
-cc179358-7ead-4007-9322-c0368b9473fd,melissa.paris,available,66.98,66.98,high,low,7,namecheap,,,27/09/2026 04:11
-0f8d6cb9-eca0-47ba-a0aa-847602b871ae,apadana.paris,available,66.98,66.98,medium,low,7,namecheap,,,19/09/2026 16:10
-9cc629b0-09a5-4780-8d55-c1779b1af004,usgs.paris,available,66.98,66.98,medium,low,4,namecheap,,,28/09/2026 03:54
-4f01faea-4d08-4418-8427-7debcb47b797,transcript.paris,available,66.98,66.98,high,low,10,namecheap,,,25/09/2026 22:18
-32ec2c08-0b8e-4b44-a1df-6c6678a376af,candidly.paris,available,66.98,66.98,medium,low,8,namecheap,,,14/09/2026 05:06
-1586ce0a-9b24-4d75-9f10-8388988f8115,cincinnati.paris,available,51.98,,high,low,10,namecheap,,,
-79b3d09a-1341-407a-a8d9-b41573adb1e5,tastes.paris,available,66.98,66.98,medium,low,6,namecheap,,,19/09/2026 00:38
-760d0cdc-103d-4799-9a44-ac5fb92d297d,jacks.paris,available,51.98,,high,low,5,namecheap,,,
-98312252-931e-4dbe-8599-d4c3e55549c0,amazement.paris,available,66.98,66.98,high,low,9,namecheap,,,18/09/2026 16:18
-db360a29-44f0-43fe-a61d-06b2586d3a9c,domination.paris,available,66.98,66.98,high,low,10,namecheap,,,24/09/2026 23:26
-9faf3a56-3aca-406d-a7a9-48fd93531e1c,falsetto.paris,available,65.99,65.99,high,low,8,name.com,,,17/08/2026 21:33
-2ac0f01e-baa7-4789-824f-73792fec0797,kiss.paris,available,51.98,,high,low,4,namecheap,,,
-406cb0ab-5480-488d-8849-0cdc3188a26b,donor.paris,available,66.98,66.98,high,low,5,namecheap,,,23/09/2026 10:42
-a29a3f5d-6fdb-4834-a3c0-15c76bf55651,charger.paris,available,66.98,66.98,high,low,7,namecheap,,,22/09/2026 14:35
-ea9dcea7-39a5-43bb-af23-a45a8578b568,multipurpose.paris,available,51.98,,medium,low,13,namecheap,,,
-8b0c121b-3f36-4e75-9ff4-6e479c594d64,chips.paris,available,51.98,,high,low,5,namecheap,,,
-2ca9990f-5a7e-4d9d-a7da-ead6363d65d3,quantal.paris,available,66.98,66.98,medium,low,7,namecheap,,,09/09/2026 07:28
-d2c79542-169d-4b87-960a-505dc3a3427e,electricians.paris,available,66.98,66.98,medium,low,12,namecheap,,,20/09/2026 20:08
-f79ec297-9b07-450d-8c52-bc0f605c1c6b,sobersided.paris,available,66.98,66.98,high,medium,10,namecheap,,,10/09/2026 13:07
-855ef372-06e4-48bb-9969-d009c8aad73b,thug.paris,available,66.98,66.98,medium,low,4,namecheap,,,27/09/2026 08:15
-a4155c8a-aacd-4dd9-940f-ce738143cb34,trackless.paris,available,66.98,66.98,medium,low,9,namecheap,,,08/09/2026 10:29
-d55180c0-5143-4a61-a07d-9b831416385d,amsonia.paris,available,66.98,66.98,medium,low,7,namecheap,,,19/09/2026 00:00
-59847a22-f28b-4354-837f-70f5002f29a4,propel.paris,available,66.98,66.98,high,low,6,namecheap,,,09/09/2026 03:16
-e0f98732-ff89-4c87-90b2-d70bf2f53de9,neighbor.paris,available,51.98,,high,low,8,namecheap,,,
-7f57428a-b41d-4fcb-bf62-ceedf8597354,dew.paris,available,51.98,,high,low,3,namecheap,,,
-9f1c8d70-2a4f-448c-a9b8-f1e627915d15,alfalfa.paris,available,66.98,66.98,high,low,7,namecheap,,,18/09/2026 06:07
-1ca34c08-40a3-4b90-a5b9-6a4c91fd1900,fis.paris,available,66.98,66.98,high,low,3,namecheap,,,28/09/2026 03:41
-a1612c4f-523d-4d71-b74e-de9b3a55ce6c,pourboire.paris,available,65.99,65.99,medium,low,9,name.com,,,21/09/2026 15:52
-ea02368d-1dbc-431d-80e1-9ea7299d5ae6,mocking.paris,available,65.99,65.99,medium,low,7,name.com,,,14/08/2026 02:52
-47601489-c01c-451d-a58b-0038775e8125,echo.paris,available,51.98,,high,medium,4,namecheap,,,
-7f017b10-2c10-4321-8bd4-c6b4c09e7a53,lighting.paris,available,66.98,66.98,high,low,8,namecheap,,,27/09/2026 14:44
-81da2891-4fc3-4beb-991b-5e388a310b0f,morristown.paris,available,66.98,66.98,medium,low,10,namecheap,,,29/09/2026 01:41
-df706cbf-4a5c-4ee5-a240-fb688513fd3e,fuzzed.paris,available,65.99,65.99,medium,low,6,name.com,,,18/08/2026 19:20
-0fc41807-87bf-415a-a336-c3a2772ffbf2,scarecrow.paris,available,66.98,66.98,high,low,9,namecheap,,,23/09/2026 19:41
-c4671ec0-0038-432b-a750-8d0ff94d5952,entity.paris,available,66.98,66.98,high,low,6,namecheap,,,29/09/2026 02:32
-4bde30ba-174f-43d3-bd9f-968b4dde6774,respecting.paris,available,51.98,,medium,low,10,namecheap,,,
-56b5a22a-a89a-439d-90c5-7a836502ce2f,dogfish.paris,available,66.98,66.98,high,low,7,namecheap,,,18/09/2026 21:24
-9d2f39fe-55f2-40fd-b01a-2b1dd0caa326,stubborn.paris,available,66.98,66.98,high,low,8,namecheap,,,25/09/2026 23:51
-01559b6f-0d2f-4a85-be63-055c80f708e9,chappell.paris,available,66.98,66.98,medium,low,8,namecheap,,,28/09/2026 21:34
-39b1100f-3680-492c-bbe8-bbe03ffd502f,teach.paris,available,66.98,66.98,high,low,5,namecheap,,,24/09/2026 02:03
-d9ff0f94-e65a-41ba-a8ea-e84e595cb5c5,overriding.paris,available,66.98,66.98,high,low,10,namecheap,,,04/09/2026 21:39
-13dd5071-9054-423e-82fd-9b7c6c61e65e,become.paris,available,51.98,,high,low,6,namecheap,,,
-630c202a-40fc-4169-aad4-6f382eb6fbc2,owes.paris,available,66.98,66.98,high,low,4,namecheap,,,28/09/2026 05:04
-540b49c9-e43e-419c-9993-087b879df040,oleaceous.paris,available,66.98,66.98,medium,low,9,namecheap,,,04/09/2026 02:06
-62643881-e140-4e54-9718-f0826eeb1058,calibre.paris,available,66.98,66.98,high,low,7,namecheap,,,24/09/2026 11:45
-6fd32420-ddae-45dc-b41e-b2880cf4597b,stael.paris,available,66.98,66.98,medium,low,5,namecheap,,,22/09/2026 07:38
